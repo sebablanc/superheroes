@@ -1,0 +1,882 @@
+{
+    "personaje": "Hulk",
+    "nombrePersonaje": "Bruce Banner",
+    "casa": "marvel",
+    "equipamiento": null,
+    "year": 1962,
+    "imagenes": ["hulk.png", "hulk_1.png", "hulk_2.png"],
+    "biografia": "  Después de una exposición accidental a los rayos gamma durante la detonación de una bomba experimental, Banner se transforma físicamente en Hulk cuando está sometido a estrés emocional, a su voluntad o en contra de ella, lo que a menudo lleva a destrozos y conflictos que complican la vida civil de Banner. El nivel de fuerza de Hulk se transmite normalmente de forma proporcional a su nivel de ira. Comúnmente retratado como un salvaje furioso, Hulk ha sido representado con otras personalidades basadas en la mente fracturada de Banner, desde una fuerza descerebrada y destructiva hasta un brillante guerrero o genio científico por derecho propio. A pesar del deseo de soledad tanto de Hulk como de Banner, el personaje tiene un gran elenco de apoyo, que incluye al amor de Banner, Betty Ross, su amigo Rick Jones, su prima She-Hulk, sus hijos Hiro-Kala y Skaar, y sus cofundadores del equipo de superhéroes, Los Vengadores. Sin embargo, su poder incontrolable lo ha llevado a entrar en conflicto con sus compañeros héroes y otros."
+}
+{
+    "personaje": "Capitan America",
+    "nombrePersonaje": "Steven \"Steve\" Grant Rogers",
+    "casa": "marvel",
+    "equipamiento": "escudo",
+    "year": 1941,
+    "imagenes": ["capitan america.png"],
+    "biografia": "El Capitán América, cuyo nombre real es Steven \"Steve\" Grant Rogers, es un superhéroe diseñado como un supersoldado patriota que luchaba frecuentemente contra las potencias del Eje en la Segunda Guerra Mundial."
+}
+{
+    "personaje": "Iron Man",
+    "nombrePersonaje": "Anthony Edward \"Tony\" Stark",
+    "casa": "marvel",
+    "equipamiento": "armadura",
+    "year": 1963,
+    "imagenes": ["iron man.png"],
+    "biografia": "Anthony Edward Stark conocido como Tony Stark, un multimillonario magnate empresarial estadounidense, playboy e ingenioso científico, quien sufrió una grave lesión en el pecho durante un secuestro. Cuando sus captores intentan forzarlo a construir un arma de destrucción masiva crea, en cambio, una armadura para salvar su vida y escapar del cautiverio. Más tarde, Stark desarrolla su traje, agregando armas y otros dispositivos tecnológicos que diseñó a través de su compañía, Industrias Stark. Él usa el traje y las versiones sucesivas para proteger al mundo como Iron Man. Aunque al principio ocultó su verdadera identidad, Stark finalmente declaró que era, de hecho, Iron Man en un anuncio público."
+}
+{
+    "personaje": "Thor",
+    "nombrePersonaje": "Thor Odinson",
+    "casa": "marvel",
+    "equipamiento": "martillo",
+    "year": 1962,
+    "imagenes": ["thor.png"],
+    "biografia": "Thor (Thor Odinson) es un superhéroe basado en la deidad nórdica homónima, es el dios del trueno asgardiano poseedor del martillo encantado, Mjolnir, que le otorga la capacidad de volar y manipular el clima entre sus otros atributos sobrehumanos."
+}
+{
+    "personaje": "Spider Man",
+    "nombrePersonaje": "Peter Parker",
+    "casa": "marvel", 
+    "equipamiento": null,
+    "year": 1962,
+    "imagenes": ["spider man.png"],
+    "biografia": "Spider-Man es el alias de Peter Parker, un huérfano criado por su tía May y su tío Ben en la Ciudad de Nueva York después de que sus padres Richard y Mary Parker murieron en un accidente aéreo. Teniendo que lidiar con los problemas de la adolescencia y los problemas financieros, es acompañado por muchos personajes de apoyo, como J. Jonah Jameson, Flash Thompson, Harry Osborn, los intereses románticos, Gwen Stacy y Mary Jane Watson, y enemigos como el Doctor Octopus, Kingpin, Duende Verde y Venom. Su historia de origen lo tiene adquiriendo habilidades relacionadas con la araña después de un mordisco de una araña radioactiva; estos incluyen aferrarse a las superficies, disparar telarañas desde dispositivos montados en la muñeca y detectar el peligro con su \"sentido arácnido\"."
+}
+{
+    "personaje": "Bishop",
+    "nombrePersonaje": "Lucas Bishop Williepondt",
+    "casa": "marvel",
+    "equipamiento": null,
+    "year": 1991,
+    "imagenes": ["bishop.png"],
+    "biografia": "Aparece por primera vez como miembro de Xavier's Security Enforcers (XSE), una fuerza policial mutante de un futuro distópico del Universo Marvel. Viaja hasta el siglo XX y se une a los X-Men, un equipo que solo conocía como leyendas. Bishop experimenta dificultades para adaptarse a las normas del período de tiempo."
+}
+{
+    "personaje": "Black Cat",
+    "nombrePersonaje": "Felicia Hardy",
+    "casa": "marvel",
+    "equipamiento": null,
+    "year": 1979,
+    "imagenes": ["black cat.png"],
+    "biografia": "Felicia Hardy es la hija de Walter Hardy, un gato ladrón de fama mundial. Se entrenó en varios estilos de lucha y acrobacias y, después de decidir seguir los pasos de su padre, adoptó la identidad disfrazada de la Gata Negra.5​Como Gata Negra, tiene la capacidad subconsciente de afectar los campos de probabilidad, lo que produce \"mala suerte\" para sus enemigos. El personaje fue originalmente una supervillana y una adversaria de Spider-Man, pero con el tiempo los dos se enamoraron, lo que la motivó a convertirse en una antiheroína y su compañera. Sin embargo, su relación se complicó después de que se hizo evidente que Gata Negra solo se sentía atraído por el alter ego de Spider-Man y tenía poco interés en la vida civil del héroe como Peter Parker. Después de su separación, Gata Negra mantuvo su papel como uno de los aliados más confiables de Spider-Man y durante años la pareja compartió romance una y otra vez antes de que finalmente volviera a su manera criminal."
+}
+{
+    "personaje": "Cable",
+    "nombrePersonaje": "Nathan Summers",
+    "casa": "marvel",
+    "equipamiento": null,
+    "year": 1986,
+    "imagenes": ["cable.png"],
+    "biografia": "Nathan Summers es el hijo biológico del miembro X-Men, Cíclope (Scott Summers) y Madelyne Pryor (clon de Jean Grey), el medio hermano de Rachel Summers y Nate Grey, y la plantilla genética para Stryfe. Él es de una posible línea de tiempo futura, habiendo sido transportado como un bebé al futuro, donde creció hasta convertirse en un guerrero, antes de regresar al presente."
+}
+{
+    "personaje": "Capitan Britania",
+    "nombrePersonaje": "Brian Braddock",
+    "casa": "marvel",
+    "equipamiento": null,
+    "year": 1976,
+    "imagenes": ["capitan britania.png"],
+    "biografia": "Brian Braddock nació y creció en la pequeña ciudad de Maldon, Essex. Es hijo del Dr. James Braddock, quien alguna vez fuera habitante del Otro Mundo y de su esposa Elizabeth. Brian fue un joven tímido y estudioso, que vivía una vida relativamente tranquila, pasando mucho tiempo con sus padres, su hermano mayor, James, y su hermana gemela, Elizabeth. Después de la muerte de sus padres (Sir James y Lady Elizabeth) en lo que parecía ser un accidente de laboratorio, Brian obtuvo una beca para el centro Darkmoor de investigación nuclear. Cuando la planta fue atacada por el criminal tecnológico Stragg Josué (alias \"El atracador\"), Brian intentó encontrar ayuda al escapar en su motocicleta. A pesar de que su moto se estrelló en un accidente casi fatal, el mago Merlín y su hija, la Guardiana Omniversal Roma, sanan a Brian. Ellos le ofrecen la oportunidad de ser el superhéroe Capitán Britania. La presentan una alternativa: el \"Amuleto de la Verdad\" o \"La Espada de Poder\". Teniéndose en cuenta a sí mismo como un guerrero no apto para el desafío, él rechaza la Espada y elige el Amuleto. Esta elección lo transforma en el Capitán Britania."
+}
+{
+    "personaje": "Colossus",
+    "nombrePersonaje": "Piotr \"Peter\" Nikolaievitch Rasputin",
+    "casa": "marvel",
+    "equipamiento": null,
+    "year": 1975,
+    "imagenes": ["colossus.png"],
+    "biografia": "Nació en una granja colectiva en la antigua Unión Soviética llamada \"El Lago Cercano\", colectivo Baikal Ust-Ordynski en Siberia. Vivió allí con su madre Alexandra, padre Nikolai y hermana pequeña, Illyana. Su hermano mayor, Mikhail, había sido astronauta ruso y había muerto, al parecer, en un accidente espacial. Las habilidades mutantes de Peter se despertaron durante su adolescencia, cuando un tractor fuera de control iba directo hacia su hermana. El profesor Charles Xavier supo de su existencia y entró en contacto con él. Xavier reclutaba un nuevo equipo de X-Men para rescatar al equipo original, cuya mayor parte había sido capturada por la isla viviente mutante, llamada Krakoa."
+}
+{
+    "personaje": "Constrictor",
+    "nombrePersonaje": "Frank Payne",
+    "casa": "marvel",
+    "equipamiento": "Cables de vibranio",
+    "year": 1977,
+    "imagenes": ["constrictor.png"],
+    "biografia": "Frank Payne era un agente de la organización internacional de espionaje S.H.I.E.L.D., y el padre de una hija adulta, Mia. ​Cuando S.H.I.E.L.D. necesitaba un \"supervillano\" disfrazado para ir encubierto en la organización criminal llamada Corporación, a Frank le dieron un disfraz de serpiente y un par de bobinas de metal electrificadas montadas en la muñeca. Utilizando la identidad falsa de \"Frank Schlicting\" de Racine, Wisconsin, y el nombre en clave de \"Constrictor\", se infiltró en el grupo, solo para sufrir una crisis nerviosa y convertirse en un criminal de carrera en serio. Como resultado de su deserción, S.H.I.E.L.D. le permitió a su hija creer que había muerto. Como el Constrictor, \"Schlicting\", mientras intentaba asesinar al amigo de Hulk, Jim Wilson, en nombre de la Corporación.3​La Corporación luego lo envió a asesinar al Capitán América; el Constrictor quedó atrapado en un derrumbe de la sede de S.H.I.E.L.D. y fue liberado por el Capitán América."
+}
+{
+    "personaje": "Ciclope",
+    "nombrePersonaje": "Scott Summers",
+    "casa": "marvel",
+    "equipamiento": null,
+    "year": 1963,
+    "imagenes": ["ciclope.png"],
+    "biografia": "Cíclope es un miembro de una subespecie de humanos conocidos como mutantes, que nacen con habilidades sobrehumanas. Cíclope puede emitir potentes rayos de energía de sus ojos. No puede controlar las descargas sin la ayuda de gafas especiales que debe usar en todo momento. Él es generalmente considerado el primero de los X-Men, un equipo de héroes mutantes que luchan por la paz y la igualdad entre mutantes y humanos, y uno de los principales líderes del equipo."
+}
+{
+    "personaje": "Deadpool",
+    "nombrePersonaje": "Wade Wilson",
+    "casa": "marvel",
+    "equipamiento": null,
+    "year": 1991,
+    "imagenes": ["deadpool.png"],
+    "biografia": "La historia de fondo del personaje ha sido presentada como vago y está sujeto a cambios, y dentro de la narración no puede recordar su historia personal debido a una condición mental. Si su nombre era o no Wade Wilson está sujeto a especulaciones ya que uno de sus enemigos, T-Ray, afirma que él es el verdadero Wade Wilson y que Deadpool es un asesino cruel que le robó su identidad. ​Ha habido otras historias dudosas sobre su historia, en un momento el supervillano Loki afirmó ser su padre.​ Con frecuencia, las revelaciones son reconectadas más tarde o ignoradas por completo, y en un tema, el propio Deadpool bromeó que si Wade Wilson es o no realmente depende de qué escritor prefiera el lector. Él ha profesado ser canadiense.15​La historia original lo hizo unirse al programa Arma X después de ser expulsado de las Fuerzas Especiales del Ejército de EE. UU. Y recibir un factor de curación artificial basado en las habilidades de Wolverine al Dr. Emrys Killebrew, uno de los científicos principales."
+}
+{
+    "personaje": "Doctor Doom",
+    "nombrePersonaje": "Victor von Doom",
+    "casa": "marvel",
+    "equipamiento": null,
+    "year": 1962,
+    "imagenes": ["doctor doom.png"],
+    "biografia": "Victor von Doom nació décadas atrás de una tribu de gente romaní de Latveria bajo el imperio de un noble anónimo llamado el Barón. La madre de Victor era la bruja Cynthia Von Doom, quien murió a manos de Mefisto cuando Doom era joven. Su padre, Werner, era el líder de la tribu y un curandero reconocido que mantuvo en secreto la vida de hechicera de su madre con el fin de proteger a Victor de un destino similar. Poco después de la muerte de Cynthia, la esposa del Barón contrajo cáncer y Werner fue llamado a la capital para sanarla. Cuando ella sucumbió a la enfermedad, el Barón tachó a Werner como un asesino y solicitó su muerte. Werner escapó con el joven Víctor, después de haberse dado cuenta la noche anterior de que la mujer moriría. Él sigue adelante, sólo para morir congelado en la ladera de una montaña, acunando al niño en un abrazo final y dándole su ropa para mantenerlo caliente. Victor sobrevivió y, a su regreso al campamento romaní, descubrió los instrumentos ocultos de su madre y juró vengarse del Barón. Víctor creció hasta convertirse en un hombre testarudo y brillante, combinando hechicería y tecnología para crear dispositivos fantásticos para mantener acorralados a los hombres del Barón y proteger a la gente romaní. Sus hazañas atrajeron la atención del decano de la Universidad Empire State, quien envió a alguien al campamento. Presentado con la posibilidad de estudiar en los Estados Unidos, von Doom decide dejar su tierra natal y a su amor, Valeria, atrás."
+}
+{
+    "personaje": "Doctor Voodoo",
+    "nombrePersonaje": "Jericho Drumm",
+    "casa": "marvel",
+    "equipamiento": null,
+    "year": 1973,
+    "imagenes": ["doctor voodoo.png"],
+    "biografia": "Después de estudiar psicología en Estados Unidos durante doce años, Jericho Drumm regresó a Haití, su tierra natal, para ayudar a Daniel, su hermano, a luchar contra un hechicero maligno. Cuando Daniel yacía en el lecho de muerte, hizo prometer a Jericho que adoptaría las costumbres de sus ancestros y que lo vengaría. Ahora llamado Dr. Vudú, su conocimiento de las artes místicas compite con el del Dr. Strange y ha llevado el manto de Hechicero Supremo cuando Strange no pudo hacerlo."
+}
+{
+    "personaje": "Domino",
+    "nombrePersonaje": "Neena Thurman",
+    "casa": "marvel",
+    "equipamiento": null,
+    "year": 1992,
+    "imagenes": ["domino.png"],
+    "biografia": "La mujer que llegaría a ser conocida como Dominó, es en realidad el resultado de un programa gubernamental super secreto de cría de mutantes, destinados a desarrollar el arma perfecta. Dominó es el resultado de una prueba sólo de supervivencia, pero su poder de «suerte», fue considerado un fracaso del proyecto. Su madre biológica la abandonó en el proyecto y la dejó con el Padre Rudolpho Boschelli en la Iglesia del Sagrado Corazón, localizada en Chicago. Dominó finalmente dejó la Iglesia y se convirtió en una mercenaria. Uno de sus primeros trabajos fue para detener la operación «Jericho», que fue un proyecto de robots controlados a control remoto. Dominó destruyó al robot en el proceso de freír la mente del soldado que lo controlaba. Ella fue asignada para proteger al genio Dr. Milo Thurman, cuya capacidad analítica le hizo demasiado peligroso para que el gobierno lo dejara vagar libremente. De alguna manera, Dominó y Thurman se enamoraron y se casaron, al parecer, oficialmente. Thurman tenía una obsesión con el Infierno de Dante Alighieri y llamó a Dominó \"Beatrice\". Los dos se separaron después de una redada en las instalaciones de A.I.M.. Milo creyó que Dominó había muerto durante el altercado."
+}
+{
+    "personaje": "Dr. Strange",
+    "nombrePersonaje": "Stephen Strange",
+    "casa": "marvel",
+    "equipamiento": null,
+    "year": 1963,
+    "imagenes": ["dr. strange.png"],
+    "biografia": "Stephen Strange es un médico especializado en neurocirugía, codicioso y egocéntrico, que solo se preocupa por la riqueza de su carrera, hasta que en un accidente sufrió una enfermedad nerviosa en sus manos que le obligó a retirarse. Cuando su padre murió, su hermano fue a visitarlo para recriminarle que no fue al funeral ese día. Stephen estaba con una chica, por lo que su hermano salió enfadado. Estaba nevando esa noche y hubo un accidente en el cual su hermano murió al ser atropellado. Stephen hizo que su cadáver fuera criogenizado hasta el día en que la ciencia lo pudiera revivir."
+}
+{
+    "personaje": "Elektra", 
+    "nombrePersonaje": "Elektra Natchios",
+    "casa": "marvel",
+    "equipamiento": "Sais",
+    "year": 1981,
+    "imagenes": ["elektra.png"],
+    "biografia": "Elektra nació en una isla griega cerca del mar Egeo, es hija de Hugo Natchios y Christina Natchios, y tenía un hermano mayor llamado Orestez Natchios. Cuando un Elektra de nueve años fue asaltada por secuestradores, los hombres fueron asesinados por Orestez, quien se había convertido en un consumado artista marcial después de salir de casa. Orestez le dijo a su padre que Elektra necesitaba aprender a defenderse. Hugo contrató a un sensei para enseñarle las artes marciales."
+}
+{
+    "personaje": "Fantomex",
+    "nombrePersonaje": "Charlie-Cluster 7",
+    "casa": "marvel",
+    "equipamiento": null,
+    "year": 2002,
+    "imagenes": ["fantomex.png"],
+    "biografia": "Fantomex fue creado por el Programa Arma Plus para servir como un centinela / super- mutante contra la población de la Tierra. Arma Plus creó una población de organismos tecnoorgánicos cuyo tejido vivo se fusionó con nanotecnología centinela a nivel celular. Su madre, un miembro de esta raza, se quedó embarazada cuando fue fertilizada con nanomáquinas, dando como resultado el nacimiento de Fantomex. Al igual que el resto de su pueblo, nació y se crio en \"El Mundo\", un entorno artificial diseñado para crear super-centinelas, con los medios de comunicación favorables para ser cazadores de mutantes siguiendo el modelo de los dibujos animados del sábado por la mañana. Aunque su nacionalidad es técnicamente británica (ya que \"El Mundo\" se encontraba en Inglaterra), Fantomex afirma que fue criado en Francia con una programación imperfecta. Él ha desarrollado un sentido francés de la identidad y por lo general se le conoce con el nombre de \"Jean-Phillipe\"."
+}
+{
+    "personaje": "Ghost Rider",
+    "nombrePersonaje": "Johnny Blaze",
+    "casa": "marvel",
+    "equipamiento": "Motocicleta",
+    "year": 1972,
+    "imagenes": ["ghost rider.png"],
+    "biografia": "Johnny Blaze, un temerario ciclista, era el hijo de Barton Blaze y Naomi Kale, nacido en Waukegan, Illinois. Pasó sus primeros años en el Carnaval de Quentin, donde sus padres protagonizaron un espectáculo con Craig \"Crash\" Simpson. La madre de Johnny abandonó a Barton y Johnny y se llevó a los dos hijos restantes de la familia, Bárbara y Danny, con ella. Perder a su madre hizo que Johnny reprimiera muchos de sus recuerdos de ella y sus hermanos. Cuando su padre murió en un truco, Johnny fue adoptado por Crash y Mona Simpson. Los Simpson ayudaron a Johnny inventando su pasado con la esperanza de que sería menos doloroso que la verdad. Ahora, creyendo que su verdadera madre era Clara Blaze, que había muerto, Johnny se convirtió en un miembro entusiasta del clan Simpson, cada vez más cercano a su hija, Roxanne Simpson. Los dos pronto se volvieron inseparables y, a medida que crecieron, su afición por el otro fue más allá de la familiaridad."
+}
+{
+    "personaje": "Havok",
+    "nombrePersonaje": "Alexander \"Alex\" Summers",
+    "casa": "marvel",
+    "equipamiento": null,
+    "year": 1969,
+    "imagenes": ["havok.png"],
+    "biografia": "Alexander Summers nació en Honolulu, Hawái. Es el segundo de los tres hijos conocidos de Christopher Summers, un piloto mayor de la Fuerza Aérea de los Estados Unidos y de su esposa Katherine Anne. Cuando Alex era un niño, vivió en Anchorage, Alaska. Su padre llevó a la familia para dar un paseo en su avioneta particular. Pero la avioneta fue atacado por una nave Shi'Ar . El avión se incendió y Christopher sujetó a sus hijos, Alex y Scott en un paracaídas y los empujó fuera del avión con la esperanza de que sobrevivieran. Acto seguido, Christopher y sus esposa fueron abducidos por los Shi'Ar. Katherine Anne estaba embarazada en el momento de la abducción."
+}
+{
+    "personaje": "Heimdall",
+    "nombrePersonaje": "Donald Velez",
+    "casa": "marvel",
+    "equipamiento": "Hofund",
+    "year": 1962,
+    "imagenes": ["heimdall.png"],
+    "biografia": "Heimdall es el hermano de la guerrera Sif.​ Él es el centinela guardián que todo lo ve y escucha todo de Asgard que se encuentra en el puente arco iris Bifröst para vigilar cualquier ataque a Asgard. En parte, ganó el papel usando su vista para ver un ejército de gigantes a varios días de marcha de Asgard, lo que les permitió ser derrotados antes de llegar a Asgard y hacer prisionero a su rey. Durante siglos, se mantuvo como el guardián de Asgard, defendiendo las puertas de la ciudad de cualquier intruso, y fue uno de los servidores más confiables de Odín."
+}
+{
+    "personaje": "Hercules",
+    "nombrePersonaje": "Heracles",
+    "casa": "marvel",
+    "equipamiento": null,
+    "year": 1965,
+    "imagenes": ["hercules.png"],
+    "biografia": "Hércules es el hijo de Zeus, rey de los dioses del Olimpo y Alcmena. Zeus sedujo a Alcmena disfrazado de su marido, Amphitryon rey de Trecén. Gracias al encanto de Zeus, Hércules nació con el potencial de fuerza extraordinaria, cual primero aparece antes de que él era aún un año de edad por estrangular a dos serpientes que atacaron (enviado por Hera). Hércules tuvieron muchas aventuras notables en la antigüedad. Él navegó con los Argonautas (con ellos puede han luchado el Akaana), enfrentó a la Hidra, vio la muerte de Medusa y derrotó a Antaeuo."
+}
+{
+    "personaje": "Antorcha Humana",
+    "nombrePersonaje": "Jonathan Lowell Spencer \"Johnny\" Storm",
+    "casa": "marvel",
+    "equipamiento": null,
+    "year": 1961,
+    "imagenes": ["antorcha humana.png"],
+    "biografia": "Creciendo en una ciudad ficticia suburbana de Long Island, Jonathan Storm perdió a su madre debido a un accidente automovilístico del cual su padre, el cirujano Franklin Storm, escapó ileso.​ Franklin Storm entró en el alcoholismo y la ruina financiera, y fue encarcelado después de matar a un prestamista en defensa propia. Johnny Storm fue criado por su hermana mayor, Sue Storm. A los 16 años, Johnny Storm se unió a su hermana y al novio de Sue, Reed Richards, en un vuelo espacial en el que la radiación cósmica transformó a los tres y al piloto de la nave, Ben Grimm, en seres con superpoderes, quienes se convertirían en el famoso equipo de superhéroes de los 4 Fantásticos. Storm, ahora con la capacidad de convertirse en un humano en llamas con el poder de volar y proyectar fuego, tomó el apodo de la Antorcha Humana, en homenaje al héroe de la Segunda Guerra Mundial del mismo nombre."
+}
+{
+    "personaje": "Mujer Invisible",
+    "nombrePersonaje": "Susan Storm",
+    "casa": "marvel",
+    "equipamiento": null,
+    "year": 1961,
+    "imagenes": ["mujer invisible.png"],
+    "biografia": "Susan y su hermano menor, Jonathan crecieron en la ciudad de Glenville, Long Island, son hijos de un médico llamado Franklin Storm y una mujer llamada Mary. Los padres dejaron a sus hijos solos una noche para viajar a una cena en honor al Dr. Storm. En el camino, un neumático explotó pero solo Mary resultó herida. Franklin escapó a la lesión e insistió en operar a su esposa. Él no pudo salvarla y ella murió. Después de la muerte de su esposa, el Dr. Franklin Storm se convirtió en un jugador y un borracho, perdiendo su práctica médica, lo que lo llevó a la muerte accidental de un prestamista. Franklin no se defendió en la corte, porque aún se sentía culpable por la muerte de Mary. Con su padre en prisión, Susan tenía que convertirse en una figura materna para su hermano menor."
+}
+{
+    "personaje": "Iron Fist",
+    "nombrePersonaje": "Daniel \"Danny\" Rand",
+    "casa": "marvel",
+    "equipamiento": null,
+    "year": 1974,
+    "imagenes": ["iron fist.png"],
+    "biografia": "Daniel Rand nació en la ciudad de Nueva York. Su padre, Wendell Rand, cuando era un niño pasó por la mística ciudad de K'un-L'un. Durante su tiempo en K'un L'un, Wendell salvó la vida del gobernante de la ciudad, Lord Tuan, y fue adoptado como el hijo de Tuan. Sin embargo, Wendell eventualmente dejó K'un L'un y se convirtió en un rico empresario en los Estados Unidos. Se casó con la mujer de la alta sociedad Heather Duncan y tuvo un hijo: Daniel."
+}
+{
+    "personaje": "Juggernaut",
+    "nombrePersonaje": "Cain Marko",
+    "casa": "marvel",
+    "equipamiento": null,
+    "year": 1965,
+    "imagenes": ["juggernaut.png"],
+    "biografia": "Cain Marko es el único hijo de Kurtis Marko y su primera esposa Marjory. Su madre murió cuando era solo un niño, y su padre se casó en segundas nupcias con la viuda Sharon Xavier, quien fuera esposa de Brian Xavier, uno de los mejores amigos de Kurtis, a quien este traicionó vilmente y provocó su muerte. Así, Cain se convirtió en hermanastro de Charles Xavier, el único hijo de Sharon. Los celos que Cain sintió hacia Charles desde el momento en que lo conoció arraigaron con el paso de los años. Charles siempre fue la estrella de la familia, relegando a Cain a un segundo plano. La situación se agravó cuando, al morir sus padres, Charles heredó la fortuna familiar, por lo que Cain juró venganza."
+}
+{
+    "personaje": "Kitty Pryde",
+    "nombrePersonaje": "Katherine Anne \"Kitty\" Pryde",
+    "casa": "marvel",
+    "equipamiento": null,
+    "year": 1980,
+    "imagenes": ["kitty pryde.png"],
+    "biografia": "Katherine Anne \"Kitty\" Pryde nació en Deerfield, Illinois, hija de Carmen y Teresa Pryde. Nacida judía por ascendencia, su abuelo paterno, Samuel Prydeman estuvo en un campo de concentración nazi durante la Segunda Guerra Mundial. Kitty comenzó a tener dolores de cabeza a los trece años, lo que indicó la aparición de sus poderes mutantes. Kitty Pryde, al manifestar sus poderes mutantes, buscó la ayuda tanto del Profesor Charles Xavier como de Emma Frost que en ese entonces era la Reina Blanca del Club Fuego Infernal. Su desconfianza hacia Emma, hizo que Kitty optara por preferir la opción de Xavier. Apenas después de su primer encuentro, Kitty terminaría ayudando a los X-Men a combatir a la mismísima Emma Frost.​ Al cabo de poco tiempo, Kitty fue admitida dentro de la Escuela Xavier para jóvenes superdotados. Así se convertiría en el miembro más joven de los X-Men. En el Instituto Xavier, Peter Rasputin (alias Coloso) entrenó y ayudó a Kitty a controlar su poder, surgiendo entre ellos una inocente y romántica atracción."
+}
+{
+    "personaje": "Magneto",
+    "nombrePersonaje": "Erik Lehnsherr",
+    "casa": "marvel",
+    "equipamiento": "Casco",
+    "year": 1963,
+    "imagenes": ["magneto.png"],
+    "biografia": "Poderoso mutante con la habilidad de generar y controlar campos magnéticos mentales, Magneto ha sido el más eminente enemigo que hayan tenido los X-Men desde su creación. En sus primeras apariciones su motivación se debía a la megalomanía, pero posteriormente los guionistas han dado cuerpo al personaje y su origen, revelando que es un superviviente del holocausto judío (Shoah), cuyas acciones se encaminan a la protección de la raza mutante y evitar que sufra un destino similar. Su papel en los cómics ha variado desde supervillano a antihéroe o incluso héroe. Magneto toma en sus manos la causa mutante con la Hermandad de mutantes, y se convierte en su líder, radical y extremista, con aspiraciones a la dominación mundial por parte de los mutantes sobre la raza humana, a la que considera próxima a su extinción. Sus planes serán siempre desmantelados por los mutantes que siguen las ideas de coexistencia pacífica de Charles Xavier, aunque en algunas ocasiones Magneto ha colaborado con los X-Men e incluso se ha convertido en su líder."
+}
+{
+    "personaje": "Sr. Fantastico",
+    "nombrePersonaje": "Reed Richards",
+    "casa": "marvel",
+    "equipamiento": null,
+    "year": 1961,
+    "imagenes": ["sr. fantastico.png"],
+    "biografia": "Nacido en Central City, California, Reed es el hijo de Evelyn y Nathaniel Richards. Nathaniel era un genio científico, y Reed heredó un nivel similar de intelecto e intereses. Siendo un niño prodigio con aptitud especial en las matemáticas, la física y la mecánica, Reed Richards ya se había inscrito en la universidad cuando tenía 14 años, ​asistiendo a universidades prestigiosas como el Instituto de Tecnología de Massachusetts, el Instituto de Tecnología de California, la Universidad de Harvard, la Universidad de Columbia, y la ficticia Universidad Empire State. Fue en la Universidad del Estado que conoció a Benjamin J. Grimm. ​Reed ya había comenzado el diseño de una nave capaz de viajar en el hiperespacio. Compartiendo sus planes con su nuevo compañero de cuarto, Grimm en tono de broma se ofreció para pilotar la nave."
+}
+{
+    "personaje": "Hermana Grimm",
+    "nombrePersonaje": "Nico Minoru", 
+    "casa": "marvel",
+    "equipamiento": "Bastón de uno",
+    "year": 2003,
+    "imagenes": ["hermana grimm.png"],
+    "biografia": "Cada año, los padres de Nico se unen a otras cinco parejas en un evento de caridad; Un año, Nico y los otros niños espían a sus padres. ​Nico se sorprende al descubrir a su padre hablando de un encantamiento, y después de presenciar el asesinato de una niña inocente por parte de sus padres (\"El Orgullo\"), Nico se une a los demás en su saqueo masivo para huir de sus padres. ​Mientras huye, Nico se encuentra con sus padres. Su madre, empuñando un gran bastón con una bola al final (\"el Bastón de Uno\"), revela que ella y el padre de Nico son magos oscuros; entonces ella intenta meter el Bastón en el pecho de Nico. El cuerpo de Nico lo absorbe. Después es cortada por Dale Yorkes por el hacha de batalla, el Bastón reaparece de su pecho, lo que hace que Nico use la frase \"Congelar\" y congela a Stacey Yorkes. Se revela que Nico es una bruja y que el Bastón solo emerge cuando ella sangra.8​Algún tiempo después de salir corriendo, Nico toma el nombre de Hermana Grimm para escapar del nombre que sus padres le dieron, pero lo deja caer después de un tiempo.9​Después de que el líder del equipo, Alex se supera a sí mismo como el topo y es derrotado junto con el Orgullo, Nico es aceptado como la líder del grupo."
+}
+{
+    "personaje": "Nocturno",
+    "nombrePersonaje": "Kurt Wagner",
+    "casa": "marvel",
+    "equipamiento": null,
+    "year": 1975,
+    "imagenes": ["nocturno.png"],
+    "biografia": "Kurt Wagner nació con ciertas características físicas inusuales, pero su poder de autoteletransportación no emergió hasta la pubertad. ​Margali Szardos, una hechicera y reina gitana, supuestamente encontró a Kurt una hora después de su nacimiento, en un pequeño refugio junto a la carretera en la Selva Negra con su padre muerto en la calle. Sin embargo, esta afirmación fue luego cuestionada, y posteriormente se comprobó que la madre de Kurt es Mystique ​(también conocida como Raven Darkholme), y su padre es el caudillo demoníaco Azazel. ​Mystique reveló que ella lo arrojó a un pozo después de que una gran muchedumbre se enteró de la existencia de Kurt, y Azazel admitió que salvó a su hijo en secreto de la caída, dándole a su amante y amiga, Margali Szardos, para criarlo. Margali llevó al bebé al pequeño circo bávaro donde trabajaba como adivina , como cobertura para sus actividades como hechicera. Wagner nunca fue adoptado legalmente por nadie, pero fue criado por todos los miembros del circo, que no tenían prejuicios contra los mutantes. Margali actuó como la madre adoptiva no oficial de Kurt."
+}
+{
+    "personaje": "Centinela Omega",
+    "nombrePersonaje": "Karima Shapandar",
+    "casa": "marvel",
+    "equipamiento": null,
+    "year": 2000,
+    "imagenes": ["centinela omega.png"],
+    "biografia": "Karima Shapandar era una detective de la policía india. Estando en servicio, salvó la vida de Neal, hijo del jefe de la policía, de quien se enamoró. Mientras buscaban al hermano del joven, Bastión los secuestró para utilizarlos en el proyecto anti-mutante Operación: Tolerancia Cero. Neal fue transformado en Centinela Primo, mientras que Karima fue transformada en un centinela más poderoso, llamado Centinela Omega. Sin embargo, los poderes mutantes de Neal reaccionaron mal al proceso y las facilidades fueron destruidas."
+}
+{
+    "personaje": "Psylocke",
+    "nombrePersonaje": "Elizabeth \"Betsy\" Braddock",
+    "casa": "marvel",
+    "equipamiento": null,
+    "year": 1976,
+    "imagenes": ["psylocke.png"],
+    "biografia": "Elizabeth \"Betsy\" Braddock creció en la Finca Braddock, ubicada en el pueblo de Maldon, Essex, Inglaterra. Es hija adoptiva del Dr. James Braddock y de su esposa Elizabeth. Tiene dos hermanos (también adoptados): James \"Jamie\" y Brian, este último gemelo de Betsy. El Dr. Braddock alguna vez fue habitante del Otro Mundo, una dimensión que sirve como nexo de todas las realidades del Multiverso Marvel. Esta dimensión fue gobernada por el mago Merlyn. Merlyn le encomendó a James, la misión de criar en la Tierra al futuro campeón de Inglaterra, el Capitán Britania, esto como parte de su plan de formar un ejército de Capitanes Britania a su servicio en diversas dimensiones. De alguna manera, desde el principio, Merlyn y su hija Roma estuvieron manipulando el destino de la familia Braddock. Con el paso del tiempo, solo Jamie y Betsy desarrollaron poderes mutantes. Betsy desarrolló habilidades telepáticas naturales."
+}
+{
+    "personaje": "El castigador",
+    "nombrePersonaje": "Frank Castle",
+    "casa": "marvel",
+    "equipamiento": "Rifle",
+    "year": 1974,
+    "imagenes": ["el castigador.png"],
+    "biografia": "Frank Castle es un ex marine que tenía una vida ordinaria con su mujer e hijos. Él, su esposa y sus hijos fueron de paseo al Central Park, donde fueron testigos de un golpe de la mafia, por lo tanto los cuatro fueron abatidos por la mafia y él fue el único sobreviviente. Escapó milagrosamente con vida y juró castigar a los responsables. Desde ese momento, Frank Castle se decidió a iniciar una guerra abierta contra el crimen, utilizando para ello métodos que no siempre se encuentran dentro de la ley."
+}
+{
+    "personaje": "Quicksilver",
+    "nombrePersonaje": "Pietro Django Maximoff",
+    "casa": "marvel",
+    "equipamiento": null,
+    "year": 1964,
+    "imagenes": ["quicksilver.png"],
+    "biografia": "Pietro y su hermana gemela, Wanda, fueron criados por Django y Marya Maximoff, una pareja gitana. Como adolescentes, Pietro Django Maximoff y su hermana Wanda descubrieron que tenían talentos peculiares. Cuando Django comenzó a robar comida para alimentar a su famélica familia, enfurecidos aldeanos atacaron el campamento de los romaníes. Usando su velocidad fenomenal, Pietro huyó del campamento con su hermana. Durante los años siguientes, Wanda y Pietro deambularon por Europa Central, viviendo de la tierra."
+}
+{
+    "personaje": "Rogue",
+    "nombrePersonaje": "Anna Marie D'Ancanto",
+    "casa": "marvel",
+    "equipamiento": null,
+    "year": 1981,
+    "imagenes": ["rogue.png"],
+    "biografia": "Anna Marie, es hija de Priscilla y Owen, dos jóvenes que vivían en una comunidad hippie. Desde joven, Priscilla siempre le había gustado salir y divertirse, al contrario de su hermana pequeña Carrie, quien siempre tuvo una actitud protectora hacia su hermana mayor. Cuando Priscilla conoció a Owen, con quien se casó para irse a vivir a una comunidad hippie, Carrie se quedó viviendo sola. Si bien no compartían los mismos puntos de vista, siguieron viéndose con regularidad. Cuando Priscilla quedó embarazada de Anna Marie, Carrie fue a vivir a la comunidad durante un tiempo y la asistió en el nacimiento de la pequeña. Poco después del nacimiento de Anna Marie, la comuna encontró a Lorenzo Moontreader (un viejo indio norteamericano). Con la asistencia de Owen la comuna rehabilitó al viejo borracho y con su ayuda pretendían acceder a las Orillas Lejanas, una dimensión mística de ensueño de donde provenían los mitos indios. Owen, en realidad planeaba usar a su esposa como sacrificio para acceder a ese paraíso, pero Priscilla y las fuerzas que operaban en las Orillas Lejanas se percataron sus intenciones. Con ayuda mística, Priscilla abrió el acceso a las Orillas Lejanas y entró en ellas sola. Al comprender lo que Owen y los hombres de la comuna habían pretendido, todas las mujeres abandonaron el lugar. Owen hallándose solo con Anna Marie, pidió ayuda a Carrie, quien crio a la niña sin mostrarle nunca el afecto que sentía por ella."
+}
+{
+    "personaje": "Dientes de sable",
+    "nombrePersonaje": "Víctor Creed",
+    "casa": "marvel",
+    "equipamiento": null,
+    "year": 1977,
+    "imagenes": ["dientes de sable.png"],
+    "biografia": "El verdadero origen de Sabretooth es desconocido. Sin embargo se sabe que su verdadero nombre es Víctor Creed, un mutante. Sabretooth es la personificación del guerrero definitivo y superviviente, habiendo sido arrastrado durante años por sus psicóticas adicciones a cazar, luchar y asesinar seres humanos. El primer dato que se tiene acerca de la infancia de Sabretooth, es el asesinato de su propio hermano por un trozo de pastel. Como consecuencia de esto, Víctor sufrió abusos psicológicos por parte de su padre que lo encerraba frecuentemente en el oscuro sótano de su hogar. El permaneció así durante mucho tiempo, hasta que finalmente escapo y mató a su padre. Con respecto a su madre, se reveló poco después, que Sabretooth la visitaba con frecuencia hasta su muerte."
+}
+{
+    "personaje": "Bruja Escarlata",
+    "nombrePersonaje": "Wanda Maximoff",
+    "casa": "marvel",
+    "equipamiento": null,
+    "year": 1964,
+    "imagenes": ["bruja escarlata.png"],
+    "biografia": "Después de la trágica muerte de su hija, Anya, en un incendio provocado por una multitud antimutante, el mutante Magneto, utilizó sus poderes y exterminó a toda la multitud ante la mirada horrorizada de su esposa, Magda, la cual huyó de su marido hacia la pequeña Nación de Transia en los Montes Balcanes, estando ya embarazada de mellizos. Magda dio a luz en la Montaña Wundagore, \"La ciudadela del Alto Evolucionador\", a los mellizos Wanda y Pietro. Ese día, el dios antiguo caído conocido como Chton le infundió a la recién nacida Wanda un gran potencial mágico además de sus habilidades mutantes. Magda murió luego del parto."
+}
+{
+    "personaje": "Shatterstar",
+    "nombrePersonaje": "Gaveedra-Seven",
+    "casa": "marvel",
+    "equipamiento": null,
+    "year": 1991,
+    "imagenes": ["shatterstar.png"],
+    "biografia": "Shatterstar es originario del planeta Mojoworld (alrededor de un siglo en el futuro, a diferencia del Mojoverso que coexiste con la dimensión de la Tierra contemporánea, haciendo de él un viajero en el tiempo), que es gobernada por el tirano alienígena Mojo V. Allí, Shatterstar fue creado para ser un esclavo. El afirma no haber tenido padres, sólo una \"cámara de gestación\". Fue diseñado genéticamente para tener una mayor capacidad física para que pudiera servir como un gladiador en la arena. Shatterstar aprendido las artes de la lucha como un guerrero en la arena en Mojoworld, donde participó en los combates por etapas para programas de televisión de Mojo. Se supone que fue aquí donde desarrolló su fuerte sentido del honor y el orgullo de guerrero. Finalmente se escapó y se unió a la Alianza Cadre, el rebelde del grupo que intentó derrocar a Mojo V de la dictadura. A partir de ahí, aprendió el idioma de Cadre y comenzó a tomar parte en las misiones. En una de estas misiones, Arize lo envió de regreso en el tiempo a la Tierra para encontrar a los X-Men y obtener su ayuda para derrotar y derrocar a Mojo."
+}
+{
+    "personaje": "She-hulk",
+    "nombrePersonaje": "Jennifer Walters",
+    "casa": "marvel",
+    "equipamiento": null,
+    "year": 1980,
+    "imagenes": ["she-hulk.png"],
+    "biografia": "Jennifer Walters, prima de Bruce Banner (Hulk), es la pequeña y algo tímida hija del alguacil del condado de Los Ángeles, William Morris Walters y Elaine (née Banner) Walters (quien murió en un accidente automovilístico cuando Jennifer tenía diecisiete años). ​Los operativos de Nicholas Trask, un jefe criminal que se había cruzado con su padre, le dispararon y la hirieron gravemente un día en que Bruce Banner estaba de visita en la ciudad. Como no había otros donantes con su tipo de sangre disponibles, Banner proporcionó su propia sangre para una transfusión; como ya compartían el mismo tipo de sangre y ADN, su radioactiva sangre, combinada con su enojo, transformó a Jennifer en She-Hulk (Hulka) de piel verde cuando los mafiosos intentaron acabar con ella en el hospital."
+}
+{
+    "personaje": "Sif",
+    "nombrePersonaje": "Sylvan",
+    "casa": "marvel",
+    "equipamiento": null,
+    "year": 1964,
+    "imagenes": ["sif.png"],
+    "biografia": "Sif, la hermana de Heimdall,​ ha sido la compañera constante de Thor y Balder desde la infancia. Como la mayoría de los asgardianos, Sif nació con el pelo dorado. El suyo, sin embargo, se volvió negro después que Loki celosamente lo cortó y lo reemplazó con pelo encantado hecho por enanos.​ A temprana edad mostró gran destreza como guerrera y fue considerada la mejor guerrera en toda Asgard, sólo comparable con Brunilda. En un momento fue dada a la diosa de la muerte Hela por un gigante, a cambio de inmortalidad, pero Thor la salvó ofreciéndose a sí mismo en su lugar. Hela quedó tan impresionada que dejó irse a los dos."
+}
+{
+    "personaje": "Spider Woman",
+    "nombrePersonaje": "Jessica Miriam Drew",
+    "casa": "marvel",
+    "equipamiento": null,
+    "year": 1977,
+    "imagenes": ["spider woman.png"],
+    "biografia": "Jessica Drew es la hija del antropólogo estadounidense Johnatan Drew y su esposa británica Merriam. No habiendo cumplido Jessica los dos años de edad, sus padres se trasladaron a la región balcánica de Transia. Su padre y el compañero de este, Herbert Wyndham habían adquirido una parcela de tierra en la Montaña Wundagore, dentro de las fronteras transianas, siendo su intención establecer un pequeño centro de investigación científica allí. Tras descubrir uranio en la propiedad, ambos científicos se enriquecieron e invirtieron sus ganancias en desarrollar toda una ciudadela tecnológica."
+}
+{
+    "personaje": "Espiral",
+    "nombrePersonaje": "Rita Wayword",
+    "casa": "marvel",
+    "equipamiento": null,
+    "year": 1985,
+    "imagenes": ["espiral.png"],
+    "biografia": "El verdadero nombre de Spiral es Rita Wayword, más conocido como Rita Carambola, una actriz y especialista de cine profesional que se hizo amiga de Longshot, cuando apareció por primera vez en la Tierra. Rita conoció su perdición futura al conocer a Longshot y enamorarse de él. Cuando Longshot trató de regresar a su dimensión de origen, el \"Mojoverso\", Rita se fue con él, sólo para ver a Longshot capturado por el amo supremo de la dimensión: Mojo. Longshot fue rápidamente lobotomizado para olvidarse por completo de Rita, mientras que un destino mucho peor le esperaba a ella."
+}
+{
+    "personaje": "La mole",
+    "nombrePersonaje": "Benjamin \"Ben\" Grimm",
+    "casa": "marvel",
+    "equipamiento": null,
+    "year": 1961,
+    "imagenes": ["la mole.png"],
+    "biografia": "Nacido en la calle Yancy en el Lower East Side de la ciudad de Nueva York, en una familia judía, Benjamin Jacob \"Ben\" Grimm tuvo una vida temprana de pobreza y dificultades, lo que le convirtió en un duro y astuto regateador. Su hermano mayor, Daniel, a quien Ben idolatró, murió en una pelea callejera cuando Ben tenía ocho años. Esta parte de su propia vida se inspira en la de Jack Kirby, que creció en la difícil Delancey Street, cuyo hermano murió cuando era joven, cuyo padre se llamaba Benjamin, y que se llamaba Jacob al nacer. ​Tras la muerte de sus padres, Ben fue criado por su tío Jake (que se había casado con una esposa mucho más joven, Petunia, que se convertiría en una referencia frecuente utilizada por el personaje hasta su muerte). Llega a liderar la pandilla de Yancy Street en un punto."
+}
+{
+    "personaje": "Thundra",
+    "nombrePersonaje": "Thundra Sherwont",
+    "casa": "marvel",
+    "equipamiento": "Cadena",
+    "year": 1972,
+    "imagenes": ["thundra.png"],
+    "biografia": "Thundra es una mujer guerrera y viajera del tiempo de un futuro alternativo del siglo 23. En la sociedad del futuro que es oriundo de, planeta Tierra es ahora conocido como Femizonia y es gobernado por Amazonas -como femeninas señoras (Femizons) que han conquistado y esclavizado a la población masculina disminuida. Los Estados Unidos ahora son la \"República de la Hermandad Unida\", y Thundra es oriunda de la megalópolis del Gran Milagro (una expansión fusionada de Milwaukee y Chicago), ubicado en la República del Medio Oeste de la Hermandad Unida. Thundra es reconocido como el guerrero más formidable de la Hermandad Unida, ya que ha sido mejorado físicamente mediante ingeniería genética y entrenado desde la infancia en el combate, las artes marciales y la estrategia militar."
+}
+{
+    "personaje": "Tigra",
+    "nombrePersonaje": "Greer Grant Nelson",
+    "casa": "marvel",
+    "equipamiento": null,
+    "year": 1972,
+    "imagenes": ["tigra.png"],
+    "biografia": "Greer Nelson es nativa de Chicago, Illinois. Fue segunda de su promoción en la Universidad de Chicago cuando ella conoció a su futuro marido, el agente de policía Bill Nelson. Abandonó la universidad para casarse con él. El matrimonio es muy fuerte, solo debilitado por la naturaleza sobreprotectra de Bill. Bill fue asesinado fuera de servicio por unos disparos, y Nelson tenía que encontrar un empleo para mantenerse. Después de semanas de búsqueda, se encontró con su antigua profesora de física, la doctora Joanne Tumolo."
+}
+{
+    "personaje": "Union Jack",
+    "nombrePersonaje": "Lord James Montgomery Falsworth",
+    "casa": "marvel",
+    "equipamiento": null,
+    "year": 1976,
+    "imagenes": ["union jack.png"],
+    "biografia": "James Montgomery Falsworth o Lord Falsworth, un Par del Reino, es activado por primera vez como el aventurero y agente del gobierno británico Union Jack en la Primera Guerra Mundial. Durante sus aventuras como miembro de los Cinco de la Libertad, se encuentra con el misterioso Barón Sangre, un vampiro saboteador que trabaja para los alemanes. Después de la guerra, Lord Falsworth se retira al hogar de sus antepasados, en Inglaterra, para formar una familia."
+}
+{
+    "personaje": "Vision",
+    "nombrePersonaje": "Victor Shade",
+    "casa": "marvel",
+    "equipamiento": null,
+    "year": 1968,
+    "imagenes": ["vision.png"],
+    "biografia": "El robot Ultron es el creador de Visión, un tipo de androide que él llama un \"synthezoide\", para usar contra el propio creador de Ultron, el Dr. Hank Pym (Ant-Man / Giant Man / Goliath / Yellowjacket) y la esposa de Pym, Janet van Dyne (la Avispa) del equipo de superhéroe Los Vengadores. Ultron envía a su nuevo sirviente para llevar a los Vengadores a una trampa. Avispa es la primera en encontrar el synthezoide, y lo describe como una \"visión\" mientras trata de escapar. Adoptando el nombre, los Vengadores convencen a la Visión para que se vuelva contra Ultron.​ Después de enterarse de cómo Ultron lo creó, utilizando los patrones del cerebro del fallecido Simon Williams (Hombre Maravilla), la Visión se convierte en un miembro del equipo.​ El equipo inicialmente cree que el cuerpo de la Visión fue creado a partir de la Antorcha Humana Original.​ A los Vengadores se les dice más tarde que el señor del tiempo Immortus usó el poder del Cristal Forever para dividir la Antorcha Humana original en dos entidades: un cuerpo permaneció como la Antorcha original mientras que Ultron reconstruyó el otro como Visión. Esto era parte de su plan de alimentar una relación para la Bruja Escarlata que le impediría tener hijos, ya que su nivel de poder significaba que cualquier descendencia que pudiera tener podría amenazar a los seres cósmicos del Universo Marvel."
+}
+{
+    "personaje": "X-23",
+    "nombrePersonaje": "Laura Kinney",
+    "casa": "marvel",
+    "equipamiento": null,
+    "year": 2003,
+    "imagenes": ["x-23.png"],
+    "biografia": "Un programa de alto secreto tiene la tarea de replicar el experimento original de Arma X que unía adamantium al esqueleto de Wolverine. El proyecto se toma en una nueva dirección: el Dr. Martin Sutter recluta a la renombrada genetista mutante, la Dra. Sarah Kinney, para desarrollar un clon de Wolverine. También en el equipo está el protegido de Sutter, el Dr. Zander Rice, quien fue criado por Sutter después de que su padre fuera asesinado por el Arma X original."
+}
+{
+    "personaje": "Batman",
+    "nombrePersonaje": "Bruce Wayne",
+    "casa": "dc",
+    "equipamiento": "Batimovil",
+    "year": 1939,
+    "imagenes": ["batman.png", "batman_1.png"],
+    "biografia": "La identidad secreta de Batman es Bruce Wayne, un multimillonario magnate empresarial y filántropo dueño de Empresas Wayne en Gotham City. Después de presenciar el asesinato de sus padres, el Dr. Thomas Wayne y Martha Wayne en un violento y fallido asalto cuando era niño, juró venganza contra los criminales, un juramento moderado por el sentido de la justicia. Bruce Wayne se entrena física e intelectualmente y crea un traje inspirado en los murciélagos para combatir el crimen, con sus gadgets de combate del batcinturón y sus vehículos."
+}
+{
+    "personaje": "Superman",
+    "nombrePersonaje": "Kal-El",
+    "casa": "dc",
+    "equipamiento":null,
+    "year": 1938,
+    "imagenes": ["superman.png"],
+    "biografia": "Superman nace en un mundo extraño a una especie tecnológicamente avanzada que se parece a los humanos. Poco después de nacer, su planeta se destruye en un cataclismo natural, pero el padre científico de Superman previó la calamidad y salva a su hijo bebé enviándolo a la Tierra en una pequeña nave espacial. Lamentablemente, la nave es demasiado pequeña para llevar a alguien más, por lo que los padres de Superman se quedan atrás y mueren. Las primeras tiras de periódicos nombran el planeta \"Krypton\", el bebé \"Kal-L\" y sus padres biológicos \"Jor-L\" y \"Lora\";​sus nombres fueron cambiados a \"Jor-el\" y \"Lara\" en una novela de 1942 de George Lowther. ​La nave aterriza en el campo estadounidense, donde los Kents, una pareja de agricultores, descubren al bebé."
+}
+{
+    "personaje": "Mujer Maravilla",
+    "nombrePersonaje": "Diana de Temiscira",
+    "casa": "dc",
+    "equipamiento": "Espada",
+    "year": 1941,
+    "imagenes": ["mujer maravilla.png"],
+    "biografia": "Diana era miembro de una tribu de mujeres llamadas las Amazonas, nativa de Isla Paraíso. Esta era una isla aislada situada en medio de un vasto océano, allí el capitán Steve Trevor tuvo un accidente aéreo donde logró apenas aterrizar su aeronave cerca a la isla, fue encontrado vivo pero inconsciente. Diana lo encontró junto a una compañera amazona. Diana le cuidó hasta que sanó pero terminó enamorándose de él. Se llevó a cabo una competencia entre todas las amazonas ante la corte de la madre de Diana, Hipólita la Reina de las Amazonas, con el fin de determinar quién era la más digna de entre todas las mujeres para llevar de regreso a Steve al mundo exterior; Hipólita le adjudicaría a la ganadora la responsabilidad de entregarle al capitán Steve Trevor su regreso al exterior y para poder luchar por la justicia. Hipólita le prohibía a Diana participar en el concurso; no obstante, aun así ella tomó parte, usando una máscara para ocultar su identidad. Ganó el concurso y se revela a sí misma, sorprendiendo a su madre Hipólita, que al final se dejaría llevar por el deseo de su hija Diana para que fuese al mundo de los hombres. Ella entonces regresa a salvo a Steve Trevor de vuelta a su casa y se le concede un vestido especial hecho por su propia madre para llevar su nuevo papel como Mujer Maravilla."
+}
+{
+    "personaje": "Flash",
+    "nombrePersonaje": "Bartholomew Henry \"Barry\" Allen",
+    "casa": "dc",
+    "equipamiento": null,
+    "year": 1940,
+    "imagenes": ["flash.png"],
+    "biografia": "Bartholomew Henry \"Barry\" Allen es un científico asistente de la División de Ciencia Criminal y Forense del Departamento de Policía de Ciudad Central en 1956, conocido por ser lento y llegar siempre tarde a su trabajo, lo cual enojaba a su prometida Iris West. Una noche, le cayó un rayo , un rayo cayó en su laboratorio lleno de químicos que bañaron a Allen, creando un accidente que le otorgaría una súper velocidad e increíbles reflejos (también la capacidad de viajar en el tiempo y entre dimensiones). Con un traje rojo y el símbolo de un rayo (que recuerda al original Capitán Maravilla de Fawcett Comics), su novia lo nombró \"Flash\", (ya que cuando era niño algo veloz mató a su madre y Barry dijo que fue como un flash) empezando así a combatir el crimen en Ciudad Central. Como civil usaba un anillo del cual extraía su traje, el cual podía encoger por medio de un gas. Flash era conocido por en ocasiones bromear contra sus enemigos, y también una característica que lo hizo temido cuando regresó de la muerte es tratar a todos sus enemigos por igual, a diferencia de los otros velocistas que trataban a Capitán Frío y a sus secuaces como tontos comparados con Gorilla Grodd y el Profesor Zoom. En su identidad civil, almacena el traje comprimido en un anillo especial mediante el uso de un gas especial que podría comprimir fibras de tela a una fracción muy pequeña de su tamaño normal."
+}
+{
+    "personaje": "Linterna Verde",
+    "nombrePersonaje": "Alan Scott",
+    "casa": "dc",
+    "equipamiento": "Anillo",
+    "year": 1940,
+    "imagenes": ["linterna verde.png"],
+    "biografia": "La historia de Alan Scott como Linterna Verde tendría como su comienzo miles de años atrás cuando un meteorito rodeado de una místeriosa \"llama verde\" cayó en la antigua China. Una voz surgiría de la llama profetizando que actuaría tres veces: una para traer muerte (un fabricante de lámparas llamado Luke Fairclough elaboraría un candil (lámpara de aceite) a partir del metal verde del meteorito; como castigo por lo que pensaban sería un sacrilegio, la población local lo asesinaría, solo para ser destruida por un repentino estallido de la llama verde), otra para traer vida (en los tiempos modernos, la lámpara caería en manos de un paciente ingresado en una institución mental que la modificaría pasando a parecer una lámpara de queroseno; la llama verde le devolvió la cordura, dándole con ello una nueva vida), y la última para traer poder."
+}
+{
+    "personaje": "Aquaman",
+    "nombrePersonaje": "Arthur Curry",
+    "casa": "dc",
+    "equipamiento": "Tridente de Neptuno",
+    "year": 1941,
+    "imagenes": ["aquaman.png"],
+    "biografia": "La historia debe comenzar con mi padre, un famoso explorador submarino — si yo dijese su nombre, lo reconocerías. Mi madre murió cuando yo era un bebé, y él volvió a su trabajo para resolver los secretos del océano. Su gran descubrimiento fue una ciudad antigua, en las profundidades donde ningún otro buzo jamás había penetrado. Mi padre creía que era el reino perdido de la Atlántida. Él construyó una casa hermética en uno de los palacios y vivió ahí, estudiando los archivos y dispositivos de la maravillosa sabiduría de la raza. A partir de los libros y archivos, él aprendió formas para enseñarme a vivir bajo el mar, aprovechando el oxígeno del agua y utilizando todo el poder del mar para hacerme maravillosamente fuerte y rápido. Entrenando y descubriendo centenares de secretos científicos, me convertí en lo que tú ves — un ser humano que vive y prospera bajo el agua."
+}
+{
+    "personaje": "Detective Marciano",
+    "nombrePersonaje": "J'onn J'onzz",
+    "casa": "dc",
+    "equipamiento":null,
+    "year": 1955,
+    "imagenes": ["detective marciano.png"],
+    "biografia": "J'onn J'onzz es teleportado accidentalmente a la Tierra por el científico conocido como el Dr. Erdel, que, inmediatamente después, sufrió un ataque al corazón y murió, dejando al marciano varado en la Tierra. J'onn es capaz de usar sus poderes para modificar su apariencia, por lo que adopta la identidad del detective de policía John Jones. Así, se une a la policía, usando en secreto sus poderes para ayudar a los habitantes de la Tierra. En revisiones posteriores de la historia, John Jones es un detective de policía fallecido, adoptando así el Detective Marciano su identidad y desarrollándose sus aventuras en la ciudad ficticia de Middleton, en Colorado. Finalmente, J'onn revela su existencia al mundo, comenzando a actuar abiertamente como un superhéroe y convirtiéndose en miembro fundador de la Liga de la Justicia. Luego se ve obligado a abandonar la identidad de John Jones cuando este es \"asesinado\" en público. Tras esto, J'onn se encontraría durante varios años envuelto en la aventura mística relacionada con la Cabeza de Diabolu."
+}
+{
+    "personaje": "Cyborg",
+    "nombrePersonaje": "Victor Stone",
+    "casa": "dc",
+    "equipamiento": null,
+    "year": 1980,
+    "imagenes": ["cyborg.png"],
+    "biografia": "Victor Stone es el hijo de Silas Stone y Elinore Stone, científicos que lo usan como sujeto de prueba para varios proyectos de mejora de inteligencia. Si bien estos tratamientos son en última instancia exitosos y el coeficiente intelectual de Victor posteriormente crece a niveles geniales, él crece para resentir su tratamiento. Victor entabla una amistad con Ron Evers, un joven sinvergüenza que lo lleva a tener problemas con la ley. Este es el comienzo de una lucha en la que Victor lucha por la independencia, participando en actividades que sus padres desaprueban, como el atletismo y abandonar sus estudios. La asociación de Victor con delincuentes menores de edad lo lleva por un camino oscuro en el que a menudo resulta herido, pero aún vive una vida \"normal\" en la que puede tomar sus propias decisiones. Sin embargo, este camino rebelde no entierra la conciencia de Víctor teniendo en cuenta que se niega a participar en los grandiosos planes de Evers de terrorismo por motivos raciales."
+}
+{
+    "personaje": "Flecha Verde",
+    "nombrePersonaje": "Oliver Jonas Queen",
+    "casa": "dc",
+    "equipamiento": "Arco y Flecha",
+    "year": 1941,
+    "imagenes": ["flecha verde.png"],
+    "biografia": "Flecha Verde no posee poderes o alteraciones genéticas en su cuerpo, pero posee muchas habilidades que ha adquirido con el paso del tiempo con el entrenamiento. Oliver es considerado uno de los mejores combatientes en cuerpo a cuerpo en DC, logrando ser un maestro en distintas formas de lucha como Boxeo, Judo, Aikido, Kick boxing y Karate, esto gracias al entrenar constantemente con su compañera e interés amoroso Canario Negro y en ocasiones con Batman, Lady Shiva y Richard Dragon siendo estos considerados de los mejores artistas marciales en DC. Haciendo a Oliver un artista marcial excepcional. También ha llevado sus habilidades de velocidad, reflejos y agilidad a lo más alto, gracias a que pasó durante un tiempo en una isla desierta tratando de sobrevivir. Oliver también ha demostrado tener una capacidad en el manejo de armas y ser un excelente piloto, esto debido a su entrenamiento con su mejor amigo Hal Jordan."
+}
+{
+    "personaje": "Wildcat",
+    "nombrePersonaje": "Theodore \"Ted\" Grant",
+    "casa": "dc",
+    "equipamiento": null,
+    "year": 1942,
+    "imagenes": ["wildcat.png"],
+    "biografia": "Theodore \"Ted\" Grant es un humano normal al que mágicamente le dieron nueve vidas. Permanece en la cima de la condición humana debido a sus extensos entrenamientos. ​Es un boxeador de clase mundial que entrenó a Batman, Canario Negro e incluso a Superman en el arte. Fue entrenado para pelear por el ex-boxeador Joe Morgan; el mismo hombre que entrenó a los compañeros misteriosos de Grant, el Átomo y el Guardián."
+}
+{
+    "personaje": "Hombre Halcón",
+    "nombrePersonaje": "Carter Hall",
+    "casa": "dc",
+    "equipamiento": null,
+    "year": 1940,
+    "imagenes": ["hombre halcon.png"],
+    "biografia": "En el antiguo Egipto el Príncipe Khufu vivía en constante conflicto con el sacerdote Hath-Set hasta que este lo capturó y mató al igual que a su consorte Chay-Ara, ofreciéndolos como sacrificio al dios Anubis. Khufu mientras moría le juró a Hath-Seth que volvería un día y lo mataría. En esta forma los tres personajes quedaron condenados a reencarnar a lo largo de la historia, Khufu y Chay-Ara siempre se encontrarían y enamorarían y Hath-Set siempre los mataría. En su actual encarnación nació como Carter Hall a mediados de 1910. Es arqueólogo y vive en Nueva York. Está casado con Shiera Sanders Hall (Hawkgirl, Padre de Hector Sanders Hall (Silver Scarab/Sandman III) y Padrino de Norda of Feithera (Northwind). Utiliza un par de alas integradas por un material alternativamente llamado Nth Metal o Ninth Metal. Esta sustancia desafía gravedad, permitiendo a su portador la energía del vuelo. Hawkman es también experto en el uso de una variedad de armas antiguas, que él prefiere en combate. Sin su armadura Hawkman es un hombre mortal y se puede matar o dañar como tal. Es miembro fundador de la JSA."
+}
+{
+    "personaje": "Comandante Acero",
+    "nombrePersonaje": "Henry Heywood",
+    "casa": "dc",
+    "equipamiento": null,
+    "year": 1978,
+    "imagenes": ["comandante acero.png"],
+    "biografia": "Henry Heywood era un estudiante de biología talentoso, trabajando a cargo del Dr. Giles Gilbert para desarrollar una fórmula bioretardante especial, cuando la Segunda Guerra Mundial (WWII) se desató. Casi se había graduado de Princeton al estallar la guerra y decidió unirse a la Marina de Estados Unidos, cuando el ejército alemán invadió Polonia. Él estaba enamorado de la hija del Dr. Giles, de nombre Gloria, con quien tiene una relación. Gloria no estaba de acuerdo con la decisión de Henry a unirse al esfuerzo bélico y le abandona. Algún tiempo después, cuando defendía su base militar de algunos saboteadores, dirigidos por el hombre que se convertiría en Baron Blitzkrieg, Hank fue atrapado en una explosión que lo dejó al borde de la muerte."
+}
+{
+    "personaje": "Stargirl",
+    "nombrePersonaje": "Courtney Elizabeth Whitmore",
+    "casa": "dc",
+    "equipamiento": null,
+    "year": 1999,
+    "imagenes": ["stargirl.png"],
+    "biografia": "Courtney Whitmore, hijastra de Pat Dugan, encuentra el equipo de Star-Spangled Kid entre las pertenencias de su padrastro y se viste con el traje con el fin de molestarle en parte como venganza por haberse casado con su madre y, supuestamente, obligando a la familia a mudarse de Los Ángeles a Blue Valley, Nebraska. Dugan, un mecánico cualificado, diseñó y construyó S.T.R.I.P.E., un traje robot que monta para acompañar y protegerla. Durante su estancia en Blue Valley, su némesis frecuente es la joven villana conocida como Shiv, hija del Rey inmortal Dragón. Las dos tuvieron su revancha más reciente en la Crisis Infinita, en una página añadida a la edición de tapa dura."
+}
+{
+    "personaje": "Dr Medianoche",
+    "nombrePersonaje": "Dr. Charles McNider",
+    "casa": "dc",
+    "equipamiento": null,
+    "year": 1941,
+    "imagenes": ["dr medianoche.png"],
+    "biografia": "Charles McNider, un cirujano, fue llamado una noche para quitar una bala de un testigo para testificar contra las mafias. Un mafioso lanzó una granada en la habitación, matando al testigo y cegándolo, con la lesión que le hizo creer que su carrera como cirujano había terminado. Una noche, mientras se recuperaba, una lechuza se estrelló a través de su ventana. Removiendo las vendas que cubrían sus ojos, McNider descubrió que aún podía ver, pero solo en la oscuridad perfecta. McNider desarrolló una visera especial que le permitió ver en la luz y \"bombas de apagón\" capaces de bloquear toda la luz, convirtiéndose en un luchador del crimen disfrazado. Adoptando el búho que voló a través de su ventana y nombrándolo \"Hooty\", el pájaro se convirtió en su \"compañero\".​ Más tarde se unió a la Sociedad de la Justicia de América (JSA) y al Escuadrón Estrella. En 1942, McNider se alistó en el Cuerpo Médico de los Estados Unidos como un médico durante la Segunda Guerra Mundial,​ subiendo al rango de Capitán. Diez años después de su debut, McNider asumió brevemente el papel de Starman después de la JSA Se disolvió cuando Ted Knight, el Starman original, sufrió un colapso nervioso como resultado de su participación en el desarrollo de la bomba atómica."
+}
+{
+    "personaje": "Mr Terrific",
+    "nombrePersonaje": "Terry Sloan",
+    "casa": "dc",
+    "equipamiento": null,
+    "year": 1942,
+    "imagenes": ["mr terrific.png"],
+    "biografia": "Terry Sloane, conocido por ser el Mister Terrific de la edad de oro, era un hombre que se hizo multimillonario filántropo, que a pesar de su falta de poderes, los compensaba con una increíble memoria fotográfica, con unas impresionantes habilidades atléticas de nivel olímpico, y dominio de artes marciales, y un Polímata. Después de graduarse de la universidad a los 13 años, con el tiempo se convirtió en un exitoso empresario de renombre que fue reconocido en todo el mundo. Habiendo cumplido todas sus metas, sintió que no había retos que quedasen por realizar en su vida, por lo que se dedicaría hacia las tendencias suicidas. Sin embargo, al ver a una mujer joven que saltó desde un puente, Sloane reaccionó rápidamente y salvó a la mujer, quien se llamaba Wanda Wilson. Sloane ayudó a su hermano, que había sido atrapado por una pandilla, esto le permitió adoptar una identidad como superhéroe:, al hacerse llamar así mismo como Mister Terrific. Esto le proporcionó lo que había faltado; un sentido de logro. Luego creó el \"Club Fair Play\", como una fundación en la que buscaba frenar la creciente delincuencia juvenil. También se convirtió en un miembro activo de la Sociedad de la Justicia de América hasta que el equipo se disolvió cuando el Comité de Actividades Antiamericanas con su caza de brujas anticumunistas les ordenó revelar sus identidades secretas o disolverse. Al final, optaron por este último para protegerse a sí mismos y a sus familias de posibles represalias por parte de aquellos que habían luchado en el pasado si sus identidades se llegaban a conocer. Tras la disolución de la JSA, Mr. Terrific se retiró de su carrera superhéroica siguiendo los pasos de sus compañeros."
+}
+{
+    "personaje": "Hourman",
+    "nombrePersonaje": "Richard \"Rick\" Tyler",
+    "casa": "dc",
+    "equipamiento": null,
+    "year": 1985,
+    "imagenes": ["hourman.png"],
+    "biografia": "Rick Tyler nació hijo de Rex Tyler, quien fue un héroe exitoso y un hombre de negocios. Sin embargo, Rex no era un buen padre, algo que luego admitió y lamentó. Cuando Rex no pasando tiempo con los negocios, estaba haciendo su trabajo de superhéroe, tan adicto a él como a la sustancia que lo impulsaba, Miraclo. Esto significaba que Rick rara vez veía a su padre, incluso en sus cumpleaños, y eventualmente Rex ni siquiera estaba seguro de la edad de su hijo. No fue una sorpresa que, aunque Rick se convertiría en un adolescente equilibrado, buscara consecuentemente la guía y aprobación de su padre. Sin embargo, Rex no podía ver el modelo que Rick realmente necesitaba, e intentó llevar la educación de Rick hasta sus límites, un esfuerzo que Rick no deseaba seguir, y constantemente se sentía inferior a su padre."
+}
+{
+    "personaje": "Liberty Bell",
+    "nombrePersonaje": "Jesse Chambers",
+    "casa": "dc",
+    "equipamiento": null,
+    "year": 1992,
+    "imagenes": ["liberty bell.png"],
+    "biografia": "Con las esperanzas de crear a un sucesor, Johnny Quick le enseñó la fórmula que le dio su velocidad a su hija Jesse. La fórmula también funcionó en Jesse y ella obtuvo supervelocidad. Contrariamente a lo que su padre había pensado, sin embargo Jesse optó por continuar su educación, en vez de volverse una luchadora contra el crimen disfrazada. Mientras Jesse estaba estudiando en la Universidad de Gotham, los primeros superhéroes de la que sus padres habían sido sus compañeros, la Sociedad de la Justicia de América, resurgió, después de una ausencia larga. Naturalmente, su tema de la tesis se volvió \"El Impacto de Superhéroes en la Sociedad\" y ella empezó a seguir a los héroes que regresaron, catalogando sus aventuras. Cuando su padre le pidió que entregara algunos documentos a la Sociedad, ese encuentro que ayudara al equipo como Jesse Quick, manteniendo el sueño de su padre de ser una luchadora contra el crimen finalmente."
+}
+{
+    "personaje": "Damage",
+    "nombrePersonaje": "Grant Emerson",
+    "casa": "dc",
+    "equipamiento": null,
+    "year": 1994,
+    "imagenes": ["damage.png"],
+    "biografia": "El joven estudiante Grant Emerson es inyectado con muestras de ADN de distintos superhéroes en un experimento llamado Project: Telémachus realizado por Vandal Savage por lo que adquiere increíbles poderes explosivos. Emerson se autonombro Damage (Daños) y se dedico a combatir al crimen teniendo como a uno de sus mas perseverantes rivales al Barón Blitzkrieg. Finalmente descubrió que él es el hijo del Atom original (Al Pratt) y su esposa Mary. También se uniría a los Jóvenes Titanes (a petición de Arsenal)."
+}
+{
+    "personaje": "Obsidian",
+    "nombrePersonaje": "Todd Rice",
+    "casa": "dc",
+    "equipamiento": null,
+    "year": 1983,
+    "imagenes": ["obsidian.png"],
+    "biografia": "Siendo infantes, Todd y su hermana fueron entregados en adopción y separados. Todd creció en un hogar adoptivo abusivo en Milwaukee, Wisconsin y no fue hasta su adolescencia que descubrió que tenía una hermana gemela. Se reunieron, descubrieron que tenían poderes y, bajo la presunción de que Linterna Verde era su padre (cosa que no sabían con certeza pero que más adelante descubrieron era verdad), decidieron seguir sus pasos."
+}
+{
+    "personaje": "Stripesy",
+    "nombrePersonaje": "Patrick \"Pat\" Dugan",
+    "casa": "dc",
+    "equipamiento": null,
+    "year": 1941,
+    "imagenes": ["stripesy.png"],
+    "biografia": "Pat Dugan se convirtió en el héroe disfrazado Stripesy después de ayudar a un joven Sylvester Pemberton III contra los espías nazis hacían pasar por manifestantes en una película en el 4 de julio de 1941. Los dos se unieron como encarnaciones de la bandera estadounidense, Star-Spangled Kid y Stripesy, a fin de rastrear y detener a los espías. Cuando los soldados se perdieron en el tiempo durante los años cuarenta, que fueron rescatados por la Liga de la Justicia de América y volvió a la actualidad. A su regreso, Dugan se casó con una mujer llamada Maggie, que le dejó más tarde a criar a su hijo Michael por su cuenta. Para agravar sus problemas era el hecho de que las ovejas negro Sylvester Pemberton Arthur relación había robado las patentes Dugan durante su desaparición. Al oír esto, Sylvester regresó a las patentes de Pat, y se reconciliaron. Dugan fue más tarde involucrados con Infinity, Inc. y su batalla contra la Sociedad de la injusticia (Infinity Inc # 53). La primera víctima de este grupo es Sylvester Pemberton. Los villanos Arlequín, al maniquí y los peligros centrar su atención en Dugan pocos días más tarde. Su plan era matar a Stellar Studios, la sede de Infinity, Inc. Cuando el hijo de Pat se involucró, Hazard exeperienced un cambio de corazón y usó sus poderes para salvar sus vidas. Maniquí utilizado los dos como cebo, pero más peligro lanzó a la batalla, y el grupo fue derrotado. Peligro de buena gana se entregó a la policía."
+}
+{
+    "personaje": "Shazam",
+    "nombrePersonaje": "William Joseph \"Billy\" Batson",
+    "casa": "dc",
+    "equipamiento": null,
+    "year": 1940,
+    "imagenes": ["shazam.png"],
+    "biografia": "William Joseph \"Billy\" Batson,​ es un vendedor de periódicos ​de 12 años sin hogar, que duerme en la estación de metro de su ciudad natal \"Fawcett City\"​. Un hombre misterioso con una capa verde le pide a Billy que lo siga hasta la estación de metro. Un vagón de metro mágico pintado en formas y colores inusuales los acompaña a una sala subterránea del trono, habitada por un hombre muy anciano con una larga barba y túnica blanca. A medida que el hombre de verde desaparece, el anciano en el trono le explica a Billy que él es el Mago Shazam, y que ha usado los poderes de \"los dioses\" - Salomón, Hércules, Atlas, Zeus, Aquiles y Mercurio, de ahí el nombre \"Shazam\", para combatir el mal durante más de 3.000 años. Sin embargo, ahora ha envejecido demasiado para continuar y necesita un sucesor. El mago explica que Billy fue elegido debido a su desgracia: había sido expulsado por un tío codicioso que le robó su herencia después de la muerte de sus padres."
+}
+{
+    "personaje": "Lightning",
+    "nombrePersonaje": "Jennifer Pierce",
+    "casa": "dc",
+    "equipamiento": null,
+    "year": 1996,
+    "imagenes": ["lightning.png"],
+    "biografia": "Jennifer Pierce es la hija menor del superhéroe Black Lightning (Jefferson Pierce) y su exesposa Lynn Stewart. Ella hereda un metagen de su padre que hace que ella manifieste superpoderes cuando se convierte en una adolescente. Sin embargo, al igual que su padre en su juventud, ella carece de la capacidad de controlar adecuadamente sus poderes eléctricos. Esto da como resultado el cortocircuito de cualquier dispositivo electrónico que toque. Este efecto secundario la ha dejado sentirse alienada y extraña entre sus pares, quienes tienen acceso a teléfonos celulares, televisores, Internet y otras comodidades del mundo moderno."
+}
+{
+    "personaje": "Atomo Smasher",
+    "nombrePersonaje": "Albert Julián Rothstein",
+    "casa": "dc",
+    "equipamiento": null,
+    "year": 1983,
+    "imagenes": ["atomo smasher.png"],
+    "biografia": "El ahijado de Al Pratt, el Átomo de la Era de oro, Albert Rothstein adquirió sus poderes metahumanos de súper fuerza y control sobre su estructura molecular, permitiéndole alterar el tamaño y densidad de su cuerpo, de su abuelo, un supervillano reluctante conocido como Cyclotron. Esto le permitió luchar contra el crimen primero como Nuklon, y luego, más tarde, como Atom Smasher. Como Nuklon, Albert era un miembro fundador de Infinity Inc. y posteriormente sirvió en la Liga de la Justicia. Fue considerado un superhéroe confiable, pero bastante inseguro e indeciso, mientras que en Infinity, Inc. Durante este tiempo tuvo un corte de pelo Mohicano. Mientras estaba en la JLA, forjó una fuerte amistad con su ex compañero de equipo de Infinity Inc., Obsidian."
+}
+{
+    "personaje": "Jakeem Thunder",
+    "nombrePersonaje": "Jakeem Johnny Williams",
+    "casa": "dc",
+    "equipamiento": null,
+    "year": 1998,
+    "imagenes": ["jakeem thunder.png"],
+    "biografia": "Jakeem Johnny Williams es un adolescente precoz de Keystone City, hogar de Jay Garrick (el Flash original) y Wally West (uno de los sucesores de Garrick). La madre de Jakeem dejó a su padre cuando todavía estaba embarazada del niño y él quedó huérfano cuando su madre murió de cáncer. A su tía Lashawn se le concedió la custodia y su padre, Phil, nunca supo (y aún no sabe) sobre su nacimiento. Jakeem se convirtió en un niño autosuficiente que creció en las calles y adoptó una actitud dura y grosera para sobrevivir."
+}
+{
+    "personaje": "Maxwell Lord",
+    "nombrePersonaje": "Maxwell Lord IV",
+    "casa": "dc",
+    "equipamiento": null,
+    "year": 1987,
+    "imagenes": ["maxwell lord.png"],
+    "biografia": "Maxwell Lord IV es el hijo de Maxwell Lord III, un exitoso hombre de negocios y director del Consorcio Chimtech. Maxwell III se propuso ser un buen ejemplo para su hijo al esforzarse por hacer siempre lo correcto. Cuando Maxwell IV tenía 16 años, llegó a casa y encontró a su padre muerto en un aparente suicidio. Su padre había descubierto que su empresa había producido un producto altamente cancerígeno y no podía soportar vivir con la culpa y la vergüenza causadas por el descubrimiento. La madre de Lord fue convencida por su esposo de emplear una práctica similar, engatusando a metahumanos heroicos para ayudar a Lord. Por lo tanto, provocó los planes para llevar a la Liga de la Justicia, sin líder y rota después del evento Crisis on Infinite Earths, bajo su control exclusivo."
+}
+{
+    "personaje": "Escarabajo Azul",
+    "nombrePersonaje": "Jaime Reyes",
+    "casa": "dc",
+    "equipamiento": null,
+    "year": 1939,
+    "imagenes": ["escarabajo azul.png"],
+    "biografia": "Jaime vive en El Paso, Texas con su padre, madre y hermana menor; su padre es dueño de un garaje. Jaime se ofrece a ayudar a su padre en el garaje, pero su padre siente que Jaime debería estudiar y disfrutar de su infancia durante el tiempo que pueda. Jaime tiene un agudo sentido de la responsabilidad de su familia y amigos, aunque se queja de tener que solucionar sus diversos problemas. Deriva fuerza y valor del apoyo de su familia."
+}
+{
+    "personaje": "Doctor Fate",
+    "nombrePersonaje": "Kent Nelson",
+    "casa": "dc",
+    "equipamiento": null,
+    "year": 1940,
+    "imagenes": ["doctor fate.png"],
+    "biografia": "Kent Nelson nació en el año de 1929 siendo hijo de Sven Nelson, un arqueólogo y Celestina Babcock Nelson, una medium espiritual. Celestina Nelson murió bajo circunstancias desconocidas poco después del nacimiento de Kent y Kent se convirtió en su compañero de viajes. En 1940, Sven y Kent estaban llevando a cabo una excavación en el Valle de Ur en Mesopotamia en plena Segunda Guerra Mundial, cuando el joven Nelson se topó por casualidad con un antiguo sarcófago que contenía el cuerpo de un ser gigante, denominado, Nabu el Sabio. Al abrir el sarcófago, Nabu fue puesto en libertad de inmediato y la tumba, que poseía una trampa, accidentalmente se activó un gas venenoso que mató al padre de Kent. Nabu, un ser místico de la Orden del planeta Ocilia, tuvo piedad con el joven y utilizó su magia para bloquear el dolor mental con el muchacho. A lo largo de los meses, Nabu educó a Kent Nelson, en las diversas formas del misticismo, sobre todo la enseñanza para lanzar hechizos y poder volar. En este tiempo, Kent Nelson creció en años en lugar de semanas; había llegado a la edad adulta para el final del verano. Nelson sentía aprecio por Nabu, pero el Señor del Orden requiría un último acto de éste: la muerte de su propio cuerpo. Nelson dudó, pero Nabu borró las inhibiciones que había colocado en él por la muerte de su padre. En un arranque de ira, Nelson lo mató. Con su cuerpo destruido, Nabu reveló su verdadera naturaleza: un ser de energía, un Señor de la Orden, que tenía varios milenios de antigüedad. Nabu le presentó a Nelson dos regalos: un casco y un amuleto místico. Cuando Nelson colocó el casco, Nabu se unió a su cuerpo como un agente contra los Señores del Caos.​ Nelson entonces adoptaría el nombre del Doctor Fate."
+}
+{
+    "personaje": "Mr Miracle",
+    "nombrePersonaje": "Scott Free",
+    "casa": "dc",
+    "equipamiento": null,
+    "year": 1971,
+    "imagenes": ["mr miracle.png"],
+    "biografia": "Scott Free es el hijo de Izaya (Highfather o el \"Alto Padre\") soberano de Nuevo Génesis y su madre es Avia. Dicho planeta se encontraba en guerra con Apokolips, hasta que Alto Padre y Darkseid firmaron un tratado de paz. Para sellarlo, ambos intercambiaron a sus hijos, aún bebés: Orión, hijo de Darkseid, fue a vivir a Nuevo Génesis, mientras que Scott Free fue a Apokolips; El intercambio de herederos garantizaba que ninguna de las partes atacaría a la otra. Scott creció en uno de los orfanatos del terror de la Abuela Bondad, sin conocimiento sobre su origen, y al crecer se rebeló contra el totalitarismo de Apokolips. Odiándose a sí mismo por no poder encajar, fue influenciado por Metrón para ver un futuro más allá de Darkseid. Scott se convirtió en parte de una pequeña banda de alumnos que fueron tutorizados en secreto por el rebelde Himon,​ un nuevo Genesian que vivía como un rebelde en Apokolips. Fue en estas reuniones donde conoció a Big Barda, líder de las Furias Femeninas, quien también llegó a compartir su punto de vista, y más tarde se convertiría en su esposa."
+}
+{
+    "personaje": "Doctora Luz",
+    "nombrePersonaje": "Kimiyo Hoshi",
+    "casa": "dc",
+    "equipamiento": null,
+    "year": 1985,
+    "imagenes": ["doctora luz.png"],
+    "biografia": "Kimiyo Tazu Hoshi, es una brillante científica pero sobrecargada,3​ fue la astrónoma supervisora de un observatorio en Japón, supervisando a un grupo de astrónomos que trazaban los efectos antinaturales que causaba la Crisis on Infinite Earths. Ella es también un médico.A medida que la Crisis continuaba, la fascinación de Hoshi con el fenómeno se convirtió en una obsesión mientras los hombres se preocupaban por su seguridad. Disgustada por su creciente temor, Hoshi los insultaba arrogantemente y ordenaba una evacuación, dejándola a estudiar la Crisis sola a través de su telescopio."
+}
+{
+    "personaje": "Godiva",
+    "nombrePersonaje": "Dorcas Leigh",
+    "casa": "dc",
+    "equipamiento": null,
+    "year": 1977,
+    "imagenes": ["godiva.png"],
+    "biografia": "Dorcas Leigh es una hermosa socialité Inglés con el poder para controlar el movimiento de su pelo. Su primera misión fue ayudar al Hombre Elástico en el desmantelamiento de una bomba cerca en Londres. Más tarde apoya a Jack O'Lantern durante la Crisis en las Tierras Infinitas y tiene un enfrentamiento con el Juguetero (W. Percival Schott). Alrededor de este tiempo ella es parte del equipo llamado los Guardianes Globales quienes repelen un ataque de la raza alienigena Apellaxians."
+}
+{
+    "personaje": "Fuego",
+    "nombrePersonaje": "Beatriz \"Bea\" Bonilla da Costa",
+    "casa": "dc",
+    "equipamiento": null,
+    "year": 1986,
+    "imagenes": ["fuego.png"],
+    "biografia": "Comenzó su carrera heroica como espía para el Servicio Secreto Brasileño. En su primera misión quedaría expuesta a un producto llamado Piroplasma, descubriendo que podía expulsar fuego por la boca. Tomando el nombre de Furia Verde (Green Fury) se haría miembro de los Guardianes Globales,y luego miembro oficial de la Liga de la Justicia. En su vida civil ha trabajado de top model y recientemente mantiene una página web donde vende imágenes de ella falsamente desnuda. Tras los eventos de la Crisis Infinita, Fuego se ha unido a la organización Checkmate, al parecer obligada por la información que Amanda Waller posee sobre ella."
+}
+{
+    "personaje": "Hielo",
+    "nombrePersonaje": "Tora Olafsdotter",
+    "casa": "dc",
+    "equipamiento": null,
+    "year": 1988,
+    "imagenes": ["hielo.png"],
+    "biografia": "La princesa Tora Olafsdotter de una tribu aislada conocedora de la magia, tiene la capacidad natural de crear y manipular el hielo. Ella se unió a los Guardianes del Mundo como miembro de Noruega (En sustitución de Sigrid Nansen) después de que se comprometió a proteger a su pueblo. Después de que la financiación por parte de las Naciones Unidas a los Guardianes fue retirado a raíz de la reforma de la Liga de la Justicia como la Liga Internacional de la Justicia, su amiga Flama Verde (posteriormente Fuego) habló a la embajada de la JLI para solicitar un puesto de trabajo para ambas. A raíz de la dimisión de Canario Negro y el secuestro de varios miembros, la pareja de heroínas se sumaron a la JLI."
+}
+{
+    "personaje": "Canario Negro",
+    "nombrePersonaje": "Dinah Laurel Lance",
+    "casa": "dc",
+    "equipamiento": null,
+    "year": 1947,
+    "imagenes": ["canario negro.png"],
+    "biografia": "Dinah Drake era hija de un policía de Gotham City, decidida a seguir los pasos de su padre, Dinah intentó ingresar a la academia de policía de la ciudad pero fue rechazada. Decidida a dedicar su vida a combatir el crimen tomó la decisión de convertirse en Canario Negro y hacer justicia por su cuenta. En su identidad secreta ella era un florista de pelo negro y usaba una peluca rubia para proteger su identidad. Originalmente ella fue un personaje al estilo de Robin Hood, ya que robaba a los criminales, más tarde recurrió a métodos menos ambiguos de cumplir con su misión."
+}
+{
+    "personaje": "Supergirl",
+    "nombrePersonaje": "Kara Zor-El",
+    "casa": "dc",
+    "equipamiento": null,
+    "year": 1959,
+    "imagenes": ["supergirl.png"],
+    "biografia": "Kara Zor-El es la última sobreviviente de Argo City del planeta Krypton. Aunque Argo, que había sobrevivido a la explosión del planeta, se desplazaba por el espacio como un entorno autosostenido, el suelo de la colonia finalmente se convirtió en Kryptonita; y aunque el padre de Kara, Zor-El, colocó láminas de plomo sobre el suelo para proteger a los ciudadanos de la radiación, los meteoritos perforaron la lámina y los kryptonianos murieron por envenenamiento por radiación en lugar de reemplazar el metal."
+}
+{
+    "personaje": "Gatúbela",
+    "nombrePersonaje": "Selina Kyle",
+    "casa": "dc",
+    "equipamiento": null,
+    "year": 1940,
+    "imagenes": ["gatubela.png"],
+    "biografia": "Selina Kyle era hija de Bryan y María Kyle, y nació en los suburbios de Gotham. Su padre era un hombre abusivo y borracho que siempre incomodaba a su mujer, María, una simple ama de casa. En su tiempo libre, Selina tomó clases de gimnasia, no sólo como una actividad extra-curricular, sino para evitar a veces la violencia doméstica en su hogar. Un día, cuando regresaba de la escuela, Selina encontró a su madre acostada en la bañera llena de sangre. Al parecer, María se había suicidado cortándose las venas con una cuchilla de afeitar. Un par de años más tarde, su padre Bryan murió por intoxicación con alcohol. Selina llamó a la policía pero en cuanto colgó el teléfono, empacó su maleta y huyó de su casa."
+}
+{
+    "personaje": "Joker",
+    "nombrePersonaje": "Jack Napier",
+    "casa": "dc",
+    "equipamiento": null,
+    "year": 1940,
+    "imagenes": ["joker.png"],
+    "biografia": "Jack Napier es un comediante con una mujer embarazada y con un mal sueldo. Le ofrecieron ser un criminal conocido como Capucha Roja a cambio de dinero, a lo que aceptó. En la historia, tras entrar furtivamente en una nave industrial, él cae en un tanque de productos químicos mientras trataba de escapar de Batman, emergiendo con la piel blanca, pelo verde, y una sonrisa extraña y malévola."
+}
+{
+    "personaje": "Dos caras",
+    "nombrePersonaje": "Harvey Dent",
+    "casa": "dc",
+    "equipamiento": null,
+    "year": 1942,
+    "imagenes": ["dos caras.png"],
+    "biografia": "La infancia de Harvey Dent fue dificil. Al crecer en una familia de clase baja, Harvey se alzó con una instintiva aversión y desconfianza a la clase alta. Este ambiente tenso facilito la represión de su desarrollo mental, como su trastorno bipolar y la esquizofrenia. Su ética de trabajo duro, sin embargo, le permitió subir hasta convertirse en el fiscal de distrito de Ciudad Gótica. Dent fue apodado \"Apolo\" por los medios de comunicación debido al hecho de que él era encantador, bien parecido, y aparentemente intocable. Estaba dedicado a su trabajo de mantener el orden público, y se convirtió en uno de los primeros partidarios, aliados e incluso amigos de Batman. En el momento de su trabajo como abogado de distrito, la peor amenaza criminal en Ciudad Gótica era Salvatore \"Sal\" Maroni. Él forjó un triunvirato con Batman y el Comisionado Gordon para encerrarlo en la carcel de por vida, no importa lo que cueste. Su temperamento irrasible llevó a Batman y el Comisionado Gordon a desarrollar una ligera desconfianza hacia él, creyendo que era poco posible que él podría ser el vigilante conocido como \"Holiday\"."
+}
+{
+    "personaje": "El Acertijo",
+    "nombrePersonaje": "Edward Nigma",
+    "casa": "dc",
+    "equipamiento": null,
+    "year": 1948,
+    "imagenes": ["el acertijo.png"],
+    "biografia": "La compulsión del Acertijo tiene su origen en el abuso que sufrió de niño por parte de su padre. Después de que Edward obtuvo las calificaciones más altas en algunas pruebas importantes de la escuela, su padre, incapaz de comprender el hecho de que su hijo era brillante y creyendo que había hecho trampa, decidió golpearlo por envidia. Esto, en teoría, le dejó un fuerte deseo interno de decir la verdad, y de demostrar su inocencia. Este deseo se manifiesta en su obsesión con los enigmas. Su locura, así como su descenso a la delincuencia en general, también puede tener raíces en un anhelo de superar el anonimato que poseía en su juventud."
+}
+{
+    "personaje": "El Pinguino",
+    "nombrePersonaje": "Oswald Chesterfield Cobblepot",
+    "casa": "dc",
+    "equipamiento": null,
+    "year": 1941,
+    "imagenes": ["el pinguino.png"],
+    "biografia": "Oswald Chesterfield Cobblepot tuvo una infancia muy poco feliz. Su madre, viuda, lo mimaba y sobreprotegia de tal manera que llegaba a sacarlo de quicio. Una de las facetas de aquella sobreprotección, por ejemplo, era asegurarse de que el pequeño Oswald llevara siempre un paraguas consigo por si llovía, por muy soleado que fuera el día. El motivo era que su padre había muerto de neumonia después de que un chaparrón lo agarrara desprevenido y sin ninguna protección.Su etapa en la escuela tampoco fue placida. Era bajito, gordo, caminaba como un pato y tenia la nariz afilada, lo que valió el apodo de Pingüino. Un insulto que acabaría por perseguir a Oswald allá a donde fuera."
+}
+{
+    "personaje": "Hiedra Venenosa",
+    "nombrePersonaje": "Pamela Lillian Isley",
+    "casa": "dc",
+    "equipamiento": null,
+    "year": 1966,
+    "imagenes": ["hiedra venenosa.png"],
+    "biografia": "La doctora Pamela Lillian Isley era una botánica de Seattle, con grandes conocimientos acerca de las plantas. Sin embargo, el científico Jason Woodrue (alias el Hombre Florónico) experimentó con ella, inyectándole toxinas en la sangre para que hacerla inmune a cualquier tipo de venenos, virus y bacterias. Sin embargo, esto le dio otras habilidades. Woodrue escapó de las autoridades, abandonando a Pamela en el hospital durante seis meses. Enfurecida por la traición, Pamela sufrió violentos y bruscos cambios de humor. Después de que su novio tuviera un accidente de coche, Pamela abandonó sus estudios y dejó Seattle con destino a Gotham."
+}
+{
+    "personaje": "Harley Quinn",
+    "nombrePersonaje": "Harleen Frances Quinzel",
+    "casa": "dc",
+    "equipamiento": null,
+    "year": 1992,
+    "imagenes": ["harley quinn.png"],
+    "biografia": "Harleen Quinzel fue una estudiante que gracias a una beca por ser gimnasta, logró matricularse en la Universidad de Gotham, donde sobresalió en su educación en psicología y se especializó en psiquiatría bajo el tutelaje del doctor Odin Markus. Para terminar sus estudios tenía que preparar una tesis, que la hizo sobre ella misma y su antigua relación con su novio Guy Kopski. Guy, después de unos trágicos sucesos que implicaban a Harleen, había muerto por un disparo de bala. Harleen atribuía lo que pasó al caos, y empezó a creer que comprendía porqué el Joker actuaba así. Para lograr ser interna en el Asilo Arkham no dudó en coquetear con el doctor Markus, diciendo que haría cualquier cosa por entrar. Hasta la graduación, y con amplias referencias del doctor Markus, la doctora Harleen Quinzel empezó su primer año de residencia en Arkham. Tan pronto como ella fue aceptada por el doctor Arkham, se le pidió tratar al Joker. Gracias al interés que ella hizo en una investigación acerca de asesinos en serie, se le dio acceso completo al payaso criminal. En su primera sesión juntos se presentó como la doctora Harleen Quinzel, pero hizo hincapié en que podía referirse a ella como Harley Quinn, en una referencia al papel del bufón medieval Arlequín (Harlequin en inglés). El Joker había permanecido bastante tiempo en silencio, pero de repente empezó a reír, y le preguntó si ella estaba intentando coquetear con él. Cuando ella se acercó, él optó por estrangularla, pero vio en ella una mirada de amor en lugar del miedo o shock que había visto en sus anteriores doctores. La pareja tuvo un romance, y Quinn ayudó al Joker a escapar varias veces antes de que ella fuera descubierta. Su licencia médica se revocó, a pesar que ella justificaba que todas sus salidas pretendían ser terapéuticas. "
+}
+{
+    "personaje": "Harvey Bullock",
+    "nombrePersonaje": "Harvey Bullock",
+    "casa": "dc",
+    "equipamiento": null,
+    "year": 1974,
+    "imagenes": ["harvey bullock.png"],
+    "biografia": "Harvey Bullock se convirtió en detective y formo parte de un selecto grupo dentro de la policía en que Gordon podía confiar. Este grupo también incluia a Maggie Sawyer, Harvey Dent, y el detective Cohen, y juntos intentaron derrocar a Sal Maroni. Aunque Gordon conoce los antecedentes de brutalidad de Bullock, confía en el porque nunca ha aceptado sobornos. Los acontecimientos que rodearon esta labor del pelotón giran en torno a los acontecimientos de Batman:The Long Halloween. Bullock y el grupo una vez se unieron a Crispus Allen y juntos desbarataron una reunión de los supervillanos de la ciudad, como el Guason, Cara de Barro y El Espantapájaros. Más tarde Bullock se asoció con Renee Montoya y los dos se volvieron muy leales el uno al otro. También durante un tiempo Bullock trabajo con la agencia de espionaje internacional Checkmate, donde se enfrento a amenazas relacionadas con terroristas."
+}
+{
+    "personaje": "James Gordon",
+    "nombrePersonaje": "James Gordon",
+    "casa": "dc",
+    "equipamiento": null,
+    "year": 1939,
+    "imagenes": ["james gordon.png"],
+    "biografia": "Gordon había servido en el Cuerpo de Marines de los Estados Unidos antes de convertirse en un oficial de policía. En la mayoría de las versiones de los mitos de Batman, Jim Gordon aparece en un momento u otro como comisario del Departamento de Policía de Gotham City. Gordon se comunica con frecuencia con Batman para obtener ayuda para resolver varios delitos, en particular los cometidos por supervillanos. En general, es Gordon quien usa la Bati-señal para invocar a Batman, y se ha convertido en una especie de broma que dice que el Caballero Oscuro a menudo desaparecerá en medio de la discusión cuando Gordon se da la vuelta. Gordon generalmente se representa con cabello plateado o rojo, lentes y un bigote. En la mayoría de las encarnaciones, se le ve usando una gabardina, corbata y, en ocasiones, un sombrero fedora. También a veces se le representa con un bastón, aunque no se revela por qué lo usa. Debido a que DC Comics retomó la historia de sus personajes en la miniserie Crisis en Tierras Infinitas de 1985, y debido a las diferentes interpretaciones en televisión y cine, los detalles de la historia de Gordon varían de una historia a otra."
+}
+{
+    "personaje": "Batichica",
+    "nombrePersonaje": "Barbara \"Barb\" Gordon",
+    "casa": "dc",
+    "equipamiento": null,
+    "year": 1967,
+    "imagenes": ["batichica.png"],
+    "biografia": "Barbara Gordon, la hija del Comisario James Gordon es una bibliotecaria de día y un espíritu justiciero por la noche. Mientras se dirigía a un baile de disfraces vestida como una versión femenina de Batman, Barbara Gordon interviene en un intento de secuestro de Bruce Wayne por el villano Killer Moth, atrayendo la atención del Caballero Oscuro lo que la termina conduciendo a una carrera de lucha en contra del crimen."
+}
+{
+    "personaje": "Robin",
+    "nombrePersonaje": "Dick Grayson",
+    "casa": "dc",
+    "equipamiento": null,
+    "year": 1940,
+    "imagenes": ["robin.png"],
+    "biografia": "Dick Grayson era un niño de doce años de edad que vivía en un circo de acróbatas, siendo el más joven de los Grayson Voladores. Dick se unió al acto de sus padres a una edad muy temprana, después de haber sido entrenado en el arte de la acrobacias desde su nacimiento. Antes de una presentación en Gotham City, en la que el acto de los Grayson era la atracción principal, se les pidió que posara para una foto con Jack Drake y su familia, incluyendo a su joven hijo."
+}
+{
+    "personaje": "Batwoman",
+    "nombrePersonaje": "Katherine \"Kathy\" Kane",
+    "casa": "dc",
+    "equipamiento": null,
+    "year": 1956,
+    "imagenes": ["batwoman.png"],
+    "biografia": "Katherine \"Kathy\" Kane pasó su juventud como una temeraria acróbata de circo, la cual heredo la fortuna de su familia siendo muy joven. Al enamorarse de Batman, Kathy Kane decidió vestirse como Batwoman para atraer a Batman y así combatir la delincuencia juntos, Batman comenzó a preocuparse por la seguridad de Batwoman y muchas veces trató de disuadirla de dejar la lucha contra el crimen. Siguiendo sus consejos, Kathy dejo de ser por un tiempo Batwoman, sumergiéndose en su papel dentro de la élite de la ciudad, pero extrañaba profundamente ser Batwoman. Por eso decidió volver con un traje nuevo para salvar a Batman, Robin y Superman durante una misión, pero volvió a ser disuadida para abandonar el papel de Batwoman. Sin embargo, Kathy fue desafiante y demostró sus habilidades como detective y luchadora contra el crimen, las cuales terminaron impresionando a Batman. La sobrina de Kathy, Betty Kane, un día fue a visitarla a Ciudad Gótica y sin quererlo descubrió la vida secreta de su tía. Inmediatamente quiso convertirse en una cruzada enmascarada, así nació el personaje de Batgirl. Kathy finalmente cedió y le permitió a Betty unirsele ya que ella la amenazó con revelar su identidad secreta. En esa época, Kathy no ocultaba sus sentimientos románticos por Batman, al igual que Batgirl con Robin."
+}
+{
+    "personaje": "Alfred Pennyworth",
+    "nombrePersonaje": "Alfred Thaddeus Crane Pennyworth",
+    "casa": "dc",
+    "equipamiento": null,
+    "year": 1943,
+    "imagenes": ["alfred pennyworth.png"],
+    "biografia": "Alfred ha sido el mayordomo de la familia Wayne durante toda la vida de Bruce y había ayudado a su maestro a establecer su carrera de superhéroes desde el principio. Además, fue el tutor legal de Bruce tras la muerte de sus padres. La historia de Alfred se ha modificado varias veces a lo largo de los años, creando versiones variadas. En una de esas versiones, los padres de Bruce contrataron a Alfred fuera de la familia real británica y virtualmente crio a Bruce después de que fueran asesinados."
+}
+{
+    "personaje": "Lex Luthor",
+    "nombrePersonaje": "Alexander Joseph Luthor",
+    "casa": "dc",
+    "equipamiento": null,
+    "year": 1943,
+    "imagenes": ["lex luthor.png"],
+    "biografia": "Lex luthor nació en Kansas donde vivió gran parte de su juventud al lado de su hermana Lena. Cuando Lex tenía diecisiete años, su hermana enfermó gravemente; a pesar de que esperaba poder salvarla, su intento fracasó, dejándola en una silla de ruedas de por vida. En lugar de enfrentarse a su fracaso, les dijo a los demás que estaba muerta, y que había tenido demasiado miedo de fracasar en un intento por salvarla. Dejando su pasado atrás, Lex Luthor se mudó a Metropolis y fundo su propia compañía LexCorp. Cuando empezó a interceptar señales de un ser extraterrestre que se hacía llamar el \"El Coleccionista de Mundos\", Lex estableció un diálogo con este ente, y comercializo datos sobre la Tierra para obtener conocimiento científico alienígena."
+}

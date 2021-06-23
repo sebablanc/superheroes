@@ -1,0 +1,39 @@
+version: '3.9'
+
+services: 
+    superheros-client:
+        build: 
+            context: ./superheros-client/.
+            dockerfile: Dockerfile
+        image: superheroes-client
+        volumes:
+            - ./superheros-client/.:/superheroes-client
+        ports: 
+            - "3000:3000"
+
+    superheroes-api:
+        build: 
+            context: ./superheroes-api/.
+            dockerfile: Dockerfile
+        image: superheroes-api
+        container_name: practica5_superheroes-api_1
+        volumes:
+            - ./superheroes-api/.:/api
+            - /api/node_modules
+        ports: 
+            - "8000:8000"
+        depends_on: 
+            - db
+        links:
+            - db:db
+        env_file: ./superheroes-api/connection/process.env
+        environment: 
+            - MONGO_HOSTNAME=$MONGO_HOSTNAME
+            - MONGO_PORT=$MONGO_PORT
+            - MONGO_DB=$MONGO_DB
+    
+    db:
+        image: mongo
+        container_name: mongodb
+        ports:
+            - "27017:27017"
