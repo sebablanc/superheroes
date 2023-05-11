@@ -8,7 +8,7 @@ function TextAreaForm({label, valor, extraClass, onChange}) {
 
     useEffect(()=>{
         textAreaAdjust();
-    }, [])
+    }, [textAreaAdjust])
 
     function handleTextChange(text) {
       setValue(text);

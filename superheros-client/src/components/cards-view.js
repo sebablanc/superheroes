@@ -36,7 +36,7 @@ function CardView({ house, changePage, selectPersonaje }){
     }
 
     useEffect(() => {
-        if(buscar == null || buscar == ''){
+        if(buscar===null || buscar===''){
             setPersonajesFiltered(personajes);
         } else {
             setPersonajesFiltered(personajes.filter(personaje =>{

@@ -20,7 +20,7 @@ function NewHero({personajeSelected, changePage }){
     const houses = [{value:'dc', houseName: 'DC'}, {value:'marvel', houseName: 'Marvel'}]
 
     async function submitData() {
-        if(personaje === '' || nombrePersonaje == '' || casa == ''
+        if(personaje === '' || nombrePersonaje==='' || casa===''
             || year <= 0) return;
 
         try {
@@ -184,7 +184,7 @@ function NewHero({personajeSelected, changePage }){
                             className="form-house-logo"
                             src={casa != '' && casa != null ?
                                 process.env.PUBLIC_URL + '/imgs/' +
-                                (casa == 'marvel' ?  'marvel-logo.svg' : 'dc-logo.png')
+                                (casa==='marvel' ?  'marvel-logo.svg' : 'dc-logo.png')
                                 : ''} />
                         
                         <InputForm

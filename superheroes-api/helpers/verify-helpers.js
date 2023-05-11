@@ -11,9 +11,9 @@ module.exports.verifyHelper = {
         let parsedPersonaje = {};
 
         //verifico que existan keys
-        if(keys == null || keys.length <= 0){
+        if(keys===null || keys.length <= 0){
             errorsList.push('El personaje enviado no tiene ningún atributo.');
-        } else if(keys.length > 0 && (req.body.casa == null || personaje == null) && userAction == httpRequestActions.CREATE){
+        } else if(keys.length > 0 && (req.body.casa===null || personaje===null) && userAction===httpRequestActions.CREATE){
             errorsList.push('No se envíaron alguno de los siguientes datos: casa o personaje.');
         }
 

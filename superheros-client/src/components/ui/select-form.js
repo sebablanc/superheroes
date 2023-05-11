@@ -12,7 +12,7 @@ function SelectForm({label, valor, list, valueName, showDataName, onChange}){
         <div className="form-data float-label">
             <select className="selector input" name={label.toLowerCase()} onChange={(e) => handleTextChange(e.target.value)}>
                 <option value="">-- Seleccioná la casa --</option>
-                {list.map((item, index) => <option value={item[valueName]} selected={item[valueName] == valor}>{item[showDataName]}</option>)}
+                {list.map((item, index) => <option value={item[valueName]} selected={item[valueName]===valor}>{item[showDataName]}</option>)}
             </select>
             <label className="Active" htmlFor={label.toLowerCase()}>{label}: </label>
         </div>

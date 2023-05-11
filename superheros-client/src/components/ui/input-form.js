@@ -20,7 +20,7 @@ function InputForm({label, valor, type, disabled, extraClass, onChange}) {
                 type={type}
                 disabled={disabled}
                 onBlur={(e) => {handleTextChange(e.target.value)}}/>
-            <label className={ value || (type == "number" && value == 0) || isActive ? "Active" : ""} htmlFor={label.toLowerCase()}>{label}: </label>
+            <label className={ value || (type==="number" && value===0) || isActive ? "Active" : ""} htmlFor={label.toLowerCase()}>{label}: </label>
         </div>
     );
 }
